@@ -1,0 +1,906 @@
+{
+  "search_metadata": {
+    "id": "6ac7dd85fbe53bf978731a02",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7-3_ZkFKax5C6Fdles96C5mFcWK4w35tgIduGaBoqyo/6ac7dd85fbe53bf978731a02.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7-3_ZkFKax5C6Fdles96C5mFcWK4w35tgIduGaBoqyo/6ac7dd85fbe53bf978731a02.md",
+    "created_at": "2026-10-08 18:14:29 UTC",
+    "processed_at": "2026-10-08 18:14:29 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=g93Has_iNJG30PEPt_iNYQ&q=macbook+air+m4&gl=in&hl=en&cs=1&async=productid:10420358406453205804,catalogid:1630696075697790800,gpcid:5383435682118214789,headlineOfferDocid:13882089755857048124,rds:PC_5383435682118214789|PROD_PC_5383435682118214789,imageDocid:5690739641385189658,isp:true,query:macbook%20air%20m4,mid:576462883325356260,pvt:hg,oapvfc:EqEDCuICQUppVDR0TGpLUElfZ3RFUFIwT0NTb2RSUUozMXF6QkE5QlJ1T3FIbzUwN0dRQmVxWURzRVkxSmxiNFJiOVBzQXVma0RmVUstcmhNR0paNjZBTjVFNk13WkR1SGdLQ1BxR2hobUt5alNPd2doVVNPbnUzUjZLODhRMzJVandId2JLVExaLWx3eHd6TW5Ici1UdWdHMmhpQTJkNjJTUlNlSXh3UjhYYzVYZFV4RmN5QTNOV0Utb0Q0QnZobTJSbkNPQnNoNVhDM2JQNDRJQmxqZ3l4dWFqblFwVlp3bk5oQS1Jdmh4eHh4TmEta29MYnV6UzJibjJzcXFrbU1YOHZjaUVSMnhoQzB6YjV5NFN0WkdteVFZUEdKVFBud1NWWm1WV2lxU2hQZTY1TGxVV1RZaTNOWWJVY09TblhxUVIyWkl4MHpfbXRLLWZsS3BBMlhyaVpaMnNrVzQ1bHgyUlBPRTdnEhZnOTNIYXNfaU5KRzMwUEVQdF9pTllRGiJBRHNyOWZTUFBHdW9tT3ZhTWNLaTFiMklqajFqLVRIVEpB,xsrf:AF5tSO6dyghTCFvdS_ajdqjSRx_GSKq4gg%3A1791483043918,sori:0,mno:3,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/7-3_ZkFKax5C6Fdles96C5mFcWK4w35tgIduGaBoqyo/6ac7dd85fbe53bf978731a02.html",
+    "prettify_html_file": "https://serpapi.com/searches/7-3_ZkFKax5C6Fdles96C5mFcWK4w35tgIduGaBoqyo/6ac7dd85fbe53bf978731a02.prettify",
+    "total_time_taken": 2.15
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "pDE_NHicbVPJruvWEQySH8gn3P2DjMPhcLgXWnAUSXEQp0ORG4GTOIiTSEmkCH_NfbYBZ2HAdpB_sRf5lihOdsmigAaqursaqP7nn_76mVf_KFhCiadTZWo7Ahykw-1VhvaPw9hn9_RWZX_HAIkDAjIkoEhI4AAygPwxjW9x0xdV9itGEYBiKUBDiqVpFjAA_FLmcdZUXW6dz_ko9um_pxAMgwOGpSFkIA1IBsPJv1VtXOR_8L--ugFNsBT5EkKMYSnIfB2z6Tf8IJwgwRAkASkGx7AXSJphvz04lnj6_9z313s-Pn9q4zTp-8uXuBq_tOT3xfDHmv-Vf22r7BdIUySFMwxB4PBF4xT4Ojxun2Xx3f3e5D_PXwROtVVBld0AXuJA-iyaz6r7LJvPvPuhj4fHOf39z0C6SqJwVwXbHwYkOsDbDbovNeeIcGRfVmcPmF6CO67v96txlCn7IkG70TCPkNVk9WcTZI7doiXwndVBl8Vtl8qUtcpC_GofURsDp0X-dEvb0nTAEJt1xHs1ks0LRgQXB3N3mW5j_OLgZZ_4Nxg35iHDsx4h85B0_urXkW6JpWOsGoq7TM1wTUfSEuvBQuRKRnkBVNMK87MgU4y2HGxPu5i15vmN2bjHkvDrMgxXFEYyIp3WhLZnWgj4twTYwO6iPvE0N7mYB7szexOVooFrtik6mt0u14hoyCyQr0kjz6gZiOQCe9vFtKwtyVwpSa-VbjHOGmGHKH_VqqTW1vQoj4mPhZYS1bGPXKMre3vlqbBG0JRNEFyyW47kyJeyPZL5e4aZQdBiAcKbxcdLO_JCzNstCGFOFL-8BoGGQsB6SVMuPlKfwaUhDWU4J0dH14NocgmeN5ryGaMhNjpzRKuNJUrx9Bv-4HhZJ5VRZ3mmGh7Nc-zDvbMasy8hO5PZwWsaZ1dpvKOYTyuIPF_mlSxgbx4RlV5g6rEnV8aluca1fNWRoyJp4L9bpvH8G-BkeHMtmE0jFGgsAZRa1vZaZjQolWjqB4l7x2gWIxkCpxiMxn9IX7mu8t__EruW4G5f0fx4cyXOEZSTyxmSq3rSVihs9XSV-I83ThK2XByzkjZkzoxtiMViyuA2ZMVTkbkjG3UjVKrUzwE8ewoeZ2Tbp3J67R8yIc8fbzvL2unSieN9VzpJR8k4eKplblVxy7AEoBkqhTlO4fSZfveM7X-M4q9Xfxe247t62LL4NxhGfINj8AV28-6-Wm9kOwQ7pBdF-pAnaekeJ5L5eDud3Dy9j_nG9ZzDluPNkqNKubxiOfI1zqIoh9iMAQ3FST7cx5tfhKp4ZhshCY8IJIp8ttiu05MYDHhisUuXgJOHW41ITePVqPIkwavcZ5UUnJ9Z4eLcx5uItjMYWLF2QzLrHV85wPvp2d-ktKS0w15y-o8383WqcJ0EgZNcwpZ4a9mJrh72Mx0fHswaLyKw3bpWw4f0PEaXSQ31kM5bJYmzcdk83Ym0-VP8TB60vFa7a-gknRGaQz5Q4cpJ3lJyx51BVfqmfBSqnFHKAxg2Sc9dfLXJ2jaZ49psnL3pTYDJmmBBp80J7opdaa0N_-ylZUbzY9ZJNt9Q_VUoidN0hqlZb579cMDE-2PfgMrkFo14YAp5Pp8nS3VYiE_32nQaPYqrVri29H44PtwAeez45G_TedrlK6KVx3BN9te8FKhZT5k1PRe-vs-FVDdaVRByftlIbRV17JwQufOcZTxsTnQMoFvwxsXnwXVWVriRyIiHtDeFBkeS1d6QrVk3MoHaR0V9uxD0Bl90a3cJJRo-bl0018agJtL-6fQEGKXMJpLYDMaht8Y8ZfznXORc-PHm-7q0rb8EqzQZnvpCCg3PJo1VxU3RXw2Pmw1huWfBMuny9DREHxprSJoiN5lrAc1aJS2Rm4_ufzUCWPSam5IOTYkw40d7u_0XtYtZEg",
+    "more_stores": true
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQMIq-gVxXOb2Z4UiTElxGKn5tMBgRXRwwzPF6qWfD_th9Actz004nX1EV-sj3sQdKTfqd0zhE5BbU8Y53tJ5FqrlgW8zL9wo4XJbTbTmpZhUhvjJJb9Rw0vQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9VHOlX1Giu2A2kAmLjME9esC-KJShyeD1M_RrQ9ARGTGiIuCGRTZ3rc4Yvgv2dBhZi3js3qMBekT99WOmjawPwptrMvJUd3Vlp-Tt3AasZx-yRVecwhWpUL4",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR1OGfpLuOf4-Utn8j4IoYrrzxjg3KW_kr8JPCm0tZLdtZGGL2isH7JyT-sSvlHSzVr8BtGduLlTSpfc4VQlUcYi7DON1czHpv0L90YtJh08zQiLnXLEM5BOEMj",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRko6FgxRUWWZKYmOMGcAayuECJL7Au4gOdOxus8UUayGDVhiF33HTuTU4K_Q5LxqnlnXo_FuhMRX1QmMZHmWmp5EYQyRr7BHo43wBKFaudwq_ZaM_YM1LPFw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTpF5K2nIAltmslq4WYvNFe1xzQ4pG7gSacmd3sbD_gCFSlrdIetxrZ1oT-5dOtS7RstHsa9_9eS-v2s6c4t7XzMSa7EUj4hz3nwFncZOiohTx8Hn-_SR6h",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRU0wXJQWD2HkWzIVRepMbQe8yzeHYc5Fn_Rl248W82THt8gDb6cBatsm-E-gYg1qpf1ZM36lUkiBMl8YCkMg-Aj7b7UAliISw9tAKxY3AwnzYmuwFS_UWsnQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ60DFEsSLWrUvjVeG7fSBSHpZLRKGOgg20UF4BMiVc3tHXYJKAca7qlmrrf1nenaDLXy0EjCY4z9q_B9v6Mco8E6J60rkOZA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThBeisaA8u75-hATsfgIhaqBWywkVFcdU74wFvGCo7iqCw4Gyq3XdaPTnQsAwg7kzS3qSsqnReveRWagfGzIDQL0WriF6qQCO6K9e4ZZlJ-GQCxlJE7vDm",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZN8pp7s2q2Re6x3q1B7aoBwGA4EYqvg0JB2dSbZ8nTPC1Y2ScgBVv6ErVIIi0Dv5_C7JM4TB903wtGccAG6HuFDPv96-elzIhJ9h5CEovgXRaOXn-h7V3Gw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtbJbBIb_jDRll-sRxSBbQ-TRhkEPPuk1RdGhwpE2nZgFHM9VZKS_m2WWfYUSDSLKd4qXnOkRApCDzkR1QlAfKzAJe04I7urDF7uTR9yrZARuYL9pI35q6lg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVByi9T8jtD6Uz5pwZvT6b7LPFXGZhO1RlQo_wVzS6YsdtxFRQZdVN5wi-1vNa1YVGyesLOn9fLyaBPYd2hgbUxPCCfrME",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSntXLVv_uCBrXS5_F9j9WnhIhzsWLDmDbbZtflrILp3D4vca-uNmh0nWcCOLrYIvTxE8mRWxE8GoMBU12hObfKsXKZZ_7ah0NdgW8k-Ntee0fgWUgFZ1Zj"
+    ],
+    "title": "Apple MacBook Air",
+    "brand": "Apple",
+    "reviews": 1977,
+    "rating": 3.8,
+    "price_range": "\u20b92,19,999-\u20b92,39,900",
+    "stores": [
+      {
+        "name": "yourshoppy.com",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://yourshoppy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://yourshoppy.com/product/apple-macbook-air-15-inch-m5-10-core-cpu-10-core-gpu-24gb-1tb-ssd-midnight-mdvn4hn-a/?srsltid=AU7gw4V3Y20pn80wZndbRtkwwKsCOMF8OSEh5a9WTWyTjX6cekBA8y_yuc8",
+        "title": "Apple MacBook Air 15-inch M5 10-core CPU 10-core GPU 24GB RAM 1TB SSD Midnight-MDVN4HN/A",
+        "details_and_offers": [
+          "Contact for online availability",
+          "Free delivery between 13\u201319 Oct",
+          "7-day returns"
+        ],
+        "price": "\u20b92,39,900",
+        "extracted_price": 239900,
+        "shipping": "Free",
+        "total": "\u20b92,39,900",
+        "extracted_total": 239900
+      },
+      {
+        "name": "Apple Education Store",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.apple.com/in-edu/shop/go/product/MDVN4HN/A",
+        "title": "Apple 15\u2032\u2032 MacBook Air - Midnight - Apple Education Store",
+        "rating": 4.5,
+        "reviews": 1147,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Final sale"
+        ],
+        "price": "\u20b92,27,900",
+        "extracted_price": 227900,
+        "shipping": "Free",
+        "total": "\u20b92,27,900",
+        "extracted_total": 227900
+      },
+      {
+        "name": "Flipkart",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.flipkart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.flipkart.com/apple-macbook-air-m5-2026-m5-24-gb-1-tb-ssd-tahoe-mdvn4hn-a/p/itm2b5972e99410a?pid=COMHZQX4N96G6HYV&lid=LSTCOMHZQX4N96G6HYVGW1CFE&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+        "title": "Apple Macbook Air M5, 2026 M5 - 24 Gb/1 Tb Ssd/Tahoe Mdvn4hn/A",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 10\u201317 Oct"
+        ],
+        "price": "\u20b92,14,990",
+        "extracted_price": 214990,
+        "shipping": "Free",
+        "total": "\u20b92,14,990",
+        "extracted_total": 214990
+      },
+      {
+        "name": "Reliance Digital",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.reliancedigital.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.reliancedigital.in/product/apple-mdvn4hna-macbook-air-apple-m5-chip24-gb1-tb-ssdmacosliquid-retina-3891-cm-153-inch-midnight-mmbzy6-9968667",
+        "title": "Apple MDVN4HN/A MacBook Air (Apple M5 Chip/24 GB/1 TB SSD/macOS/Liquid Retina), 38.91 cm (15.3 inch), Midnight",
+        "rating": 3.5,
+        "reviews": 102,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Fri\u2013Sat",
+          "5-day returns"
+        ],
+        "price": "\u20b92,15,900",
+        "extracted_price": 215900,
+        "shipping": "Free",
+        "total": "\u20b92,15,900",
+        "extracted_total": 215900
+      },
+      {
+        "name": "Design Info",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.designinfo.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.designinfo.in/p/apple-15%E2%80%B3-macbook-air-m5-15-3-inch-24gb-1tb-ssd-10-core-cpu-10-core-gpu-midnight/",
+        "title": "Apple 15\u2032\u2032 MacBook Air (M5 ,15.3 inch, 24GB, 1TB SSD, 10-Core CPU, 10-Core GPU, Midnight)",
+        "rating": 4.3,
+        "reviews": 1140,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Sun",
+          "Free 7-day returns"
+        ],
+        "price": "\u20b92,19,999",
+        "extracted_price": 219999,
+        "shipping": "Free",
+        "total": "\u20b92,19,999",
+        "extracted_total": 219999
+      },
+      {
+        "name": "Gadgets Now",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://shop.gadgetsnow.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://shop.gadgetsnow.com/laptops/apple-mdvn4hn-a-m5-chip-with-10-core-cpu-15-3-inches-macbook-laptop-24-gb-1tb-ssd-macos-tahoe-midnight-1-51-kg-/10041/p_G772687?utm_source=google&utm_medium=cpc&srsltid=AU7gw4X0eLex3s0MOVaHKr1Koo7TMMQDyTkpXsU6q8I2_-FR6F6PhtDnc7M",
+        "title": "Apple MDVN4HN/A M5 chip with 10-core CPU 15.3 Inches...",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 12\u201315 Oct"
+        ],
+        "discount": "Usually \u20b92,19,999",
+        "price": "\u20b91,84,900",
+        "extracted_price": 184900,
+        "original_price": "\u20b91,84,900",
+        "extracted_original_price": 184900,
+        "shipping": "Free",
+        "total": "\u20b91,84,900",
+        "extracted_total": 184900
+      },
+      {
+        "name": "desertcart.in",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.desertcart.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.desertcart.in/products/839072110-apple-cto-macbook-air-15-with-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-1tb-ssd-liquid-retina-display-12mp-center-stage-camera-usb-c-midnight",
+        "title": "Apple CTO MacBook Air 15\" with M5 Chip, 10-Core CPU, 10-Core GPU, 24GB Memory, 1TB SSD, Liquid Retina Display, 12MP Center Stage Camera, USB-C, Midnig",
+        "rating": 4.1,
+        "reviews": 27,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 16\u201322 Oct",
+          "14-day returns"
+        ],
+        "price": "\u20b93,61,287",
+        "extracted_price": 361287,
+        "shipping": "Free",
+        "total": "\u20b93,61,287",
+        "extracted_total": 361287
+      },
+      {
+        "name": "Ampro | The Laptop Store",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ampro.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://ampro.in/product/apple-macbook-air-m5-chip-24gb-ram-1tb-ssd-midnight/?srsltid=AU7gw4XhFqF7uXv_uvAZNV0nbRZp-FdXoUGopewVF2SL852yVGXabK2NV64",
+        "title": "Apple MacBook Air M5 (Apple M5 10-Core CPU/10-Core GPU, 24 RAM, 1TB SSD, 15.3\" Liquid Retina Display, macOS, Integrated Graphics, Midnight)",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between 12\u201316 Oct \u20b9299"
+        ],
+        "price": "\u20b92,39,900",
+        "extracted_price": 239900,
+        "shipping": "+ \u20b9299",
+        "shipping_extracted": 299,
+        "total": "\u20b92,40,199",
+        "extracted_total": 240199
+      },
+      {
+        "name": "Desertcart.ae",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desertcart.ae&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.desertcart.ae/products/809606596-2026-macbook-air-15-laptop-with-m5-chip-ai-and-apple-intelligence-38-91-cm-15-3-liquid-retina-display-24gb-unified-memory-1tb-ssd-storage-12mp-center-stage-camera-touch-id-midnight",
+        "title": "2026 MacBook Air 15 Laptop with M5 chip: AI and Apple Intelligence, 38.91 cm (15.3) Liquid Retina Display, 24GB Unified Memory, 1TB SSD Storage, 12MP",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 16\u201322 Oct"
+        ],
+        "price": "\u20b93,30,007.73",
+        "extracted_price": 330007.73,
+        "shipping": "Free",
+        "total": "\u20b93,30,007.73",
+        "extracted_total": 330007.73
+      },
+      {
+        "name": "desertcart.in",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.desertcart.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.desertcart.in/products/810495748-2026-macbook-air-15-inch-laptop-with-m5-chip-ai-and-apple-intelligence-15-3-inch-liquid-retina-display-24gb-unified-memory-1tb-ssd-storage-12mp-center-stage-camera-midnight-english",
+        "title": "2026 MacBook Air 15-inch Laptop with M5 chip: AI and Apple Intelligence, 15.3-inch Liquid Retina Display, 24GB Unified Memory, 1TB SSD Storage, 12MP C",
+        "rating": 4.1,
+        "reviews": 27,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 16\u201322 Oct",
+          "14-day returns"
+        ],
+        "price": "\u20b94,15,573",
+        "extracted_price": 415573,
+        "shipping": "Free",
+        "total": "\u20b94,15,573",
+        "extracted_total": 415573
+      },
+      {
+        "name": "Shopsy By Flipkart",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.shopsy.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.shopsy.in/apple-macbook-air-m5-2026-m5-24-gb-1-tb-ssd-tahoe-mdvn4hn-a/p/itm2b5972e99410a?pid=COMHZQX4N96G6HYV&lid=LSTCOMHZQX4N96G6HYVGW1CFE&marketplace=FLIPKART",
+        "title": "Apple Macbook Air M5, 2026 M5 - 24 Gb/1 Tb Ssd/Tahoe Mdvn4hn/A",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between 13\u201315 Oct",
+          "3-day returns"
+        ],
+        "discount": "Usually \u20b92,19,999",
+        "price": "\u20b92,14,990",
+        "extracted_price": 214990,
+        "original_price": "\u20b92,14,990",
+        "extracted_original_price": 214990,
+        "shipping": "Free",
+        "total": "\u20b92,14,990",
+        "extracted_total": 214990
+      },
+      {
+        "name": "Supreme Computers India",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://supremeindia.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://supremeindia.com/products/apple-macbook-air-15-3-inch-laptop-with-apple-m5-chip-16gb-ram-midnight?variant=44086434725975&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4XXMSPOsKrPTcBTS0z3CLaXTA1oyzwFSpqLfiIWoxHGtuH__aAlxJo",
+        "title": "Apple MacBook Air 15-inch M5 Chip 16GB Laptop 1 Year Warranty,Midnight Midnight / 24GB + 1TB",
+        "details_and_offers": [
+          "Contact for online availability",
+          "Delivery between Fri\u2013Sat \u20b9500",
+          "Final sale"
+        ],
+        "price": "\u20b92,39,900",
+        "extracted_price": 239900,
+        "shipping": "+ \u20b9500",
+        "shipping_extracted": 500,
+        "total": "\u20b92,40,400",
+        "extracted_total": 240400
+      },
+      {
+        "name": "Apple",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.apple.com/in/shop/go/product/MDVN4HN/A?cid=aos-in-seo-pla-mac-mac",
+        "title": "Apple 15\u2032\u2032 MacBook Air - Midnight",
+        "rating": 4.5,
+        "reviews": 1147,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Final sale"
+        ],
+        "price": "\u20b92,39,900",
+        "extracted_price": 239900,
+        "shipping": "Free",
+        "total": "\u20b92,39,900",
+        "extracted_total": 239900
+      }
+    ],
+    "stores_next_page_token": "bIsCC3ica15aklmSk7rRsaAgJ1XBNzHZKT8_W8Exs2hJcX5RJu_i3Lx8LgAVNg5L",
+    "about_the_product": {
+      "title": "Buy MacBook Air, 15\", M5 Chip, 10-core CPU, 10-core GPU, Midnight, 16GB memory, 512GB storage",
+      "link": "https://www.apple.com/in/shop/buy-mac/macbook-air/15-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
+      "displayed_link": "apple.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "Apple"
+        },
+        {
+          "title": "Operating System",
+          "value": "Mac OS"
+        },
+        {
+          "title": "Retina Display",
+          "value": "Yes"
+        },
+        {
+          "title": "Drive Type",
+          "value": "Solid State Drive"
+        },
+        {
+          "title": "Colour",
+          "value": "Midnight"
+        },
+        {
+          "title": "Available Ports",
+          "value": "USB-A, USB-C, 3.5-mm Jack"
+        },
+        {
+          "title": "Weight",
+          "value": "1.51 kg"
+        },
+        {
+          "title": "Drive Capacity",
+          "value": "1 TB drive"
+        },
+        {
+          "title": "Screen Size",
+          "value": "15.3 in"
+        },
+        {
+          "title": "Installed Memory",
+          "value": "24 GB RAM"
+        },
+        {
+          "title": "Battery Life",
+          "value": "18 hours battery life"
+        }
+      ]
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 77
+      },
+      {
+        "stars": 3,
+        "amount": 595
+      },
+      {
+        "stars": 4,
+        "amount": 982
+      },
+      {
+        "stars": 5,
+        "amount": 321
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQeffqHqhqGX3D71sHkJnI2-zt9E1lmWhy2WewFq_EfWQ54xn0U8TYXNg5rF9XHgeEvbtzagX0swHZ3ssAnI4CidkbNiW-1",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPC2ozam5MDY2U2cMPu53q5UFZDBk7KSuVgB5HOV8V0SLE9jdA-TJJXWaVAMAUovdXDU5N_14dVVgoFlppFSS097j5NjjpiQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTV77X6IJp91gI_rbLL-HEl77rRrf3Ci9TFNfIke98lIIKL1GdVGUeh18OQXVPqbwqA92F6aJSHbRpSE1iKGuoI6SEtDg23",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFmUeQ3uPHqmjdy3kur4pIMbAzFVlwRNij2alGwSAX93cDsXJMztVtgv_ISsqJ1ttulz87XbRfhalC4MxDvD9Ihj3zmgv43g",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQI2AjebEzHIPtxu_Vx0BLGgduDBlja20EMWnOMUSX-f6Vhvcqn-VT_53PdLwMYRYEzdo03Z8qDhsTG6X1YMq9_V9w_ONlVsA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxLtXY3LOgXw-rhVeO_AM_x3YiDFdqvspuXbWvyp3MJaxPE2K83U3VOAmjkHdZY3C3P_w2T9Cd5ik1t8KvryG5c4FTY4Bkug",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWjIeFW4fYVyXH3t5gFiolSl2J-xRasQp-wB3KXuX55XaIWgKlryu6JNR80vpF53IT9uMOrhe1La6N9zHRBWYsitlqkfN6",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTJ5_tAjGT6x_oosR8-YQmYc8CDwNMhpDwSEgzCm01KSU7jqlYRgq5kELcjCS71B1I0QYiqn5WheaHCGJ_hwPHGPHMOZ9xb",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAc7OI5oRu4undpk2IMd1LyC1m4i4XgEWcnS4GI7MO5MSAN2_JN5_vZHq1LxNA3F37aJM2yIIJBR-rP2zDzU5f_AWp5d6n",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOXVn_1mm1GKDUp5fOuFA8zLJk4PxewBy_kecuG_AEDoTAgXFCJwcKkuh-2WOfOAtjCSQSduywTYN4dSq3J8UGvEdfHEGu",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSL-om5jThRv1Mq0GVRlhZO4HCXmeTH7ZMdKIMerj0uSEItDdcAGdV6bdsJB4JBgkhDLZ5oqC3HvkTxsaYWByTRXXWJIPKM",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzIZJotO0qXn_cuCRcuA-93gN_DQS6DIn_ZgRYA2vXIP_VJu9VDxosB-sjWNflJ5NPb6R1dQF3UZCS-HygZ612wjlpBqvx"
+    ],
+    "user_reviews": [
+      {
+        "title": "Review of APPLE MacBook Air 15 (2026) - M5 1 TB SSD RAM 16 GB Midnight",
+        "text": "I\u2019ve had my MacBook Air a little while now and honestly I\u2019m still kind of amazed by it. I went into it slightly over cautious, wondering if it would actually handle the stuff I throw at it long term, but it just quietly gets on with everything without breaking a sweat.\n\nThe speed difference compared to using my previous devices is insane. Everything feels instant. Boots up immediately, apps open properly fast, and even when I\u2019ve got loads going on it never seems to struggle. The battery life is borderline witchcraft too. I keep accidentally leaving it plugged in overnight and even that doesn\u2019t seem to faze it.\n\nWhat surprised me most is how capable it is for entertainment and gaming considering it\u2019s an Air. I genuinely think people underestimate these things. Massive open world games, music production, writing, poster design, gig prep \u2014 it handles the lot. And because it\u2019s silent and light you actually want to carry it around and use it instead of treating it like a lump of equipment.\n\nThe screen is beautiful, the speakers are way better than they have any right to be, and the whole thing just feels solid and properly thought through. It\u2019s one of those rare bits of tech that actually makes you want to create things.\n\nI bought it mainly as a tool for writing, business and creative work, but it\u2019s quickly become one of my favourite things I own.",
+        "user_name": "Reviewed by Currys customer",
+        "source": "www.currys.co.uk",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1xEE4YWFZPppo9AHXDyAR36r4tZe6Ps_RZRapIme_g74fMuti5YUNrCWhFY94zuq-VXQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Can't fault it",
+        "text": "My previous MacBook Pro had reached the end of life, and I decided that an Air would be more than enough processing power and memory for my needs.\n\nFirst off the screen is massive, making word docs a delight to work with and I no longer have to perch the laptop on my knee to read the font. Not only is the screen large but the definition and brightness blow the old laptop clean away.\n\nNext onto the speed and processing. I went for the 1TB option which is, on reflection, probably overkill as I make use of cloud storage. However it's good to know I'll never be constrained by storage. I've attempted some graphics processing and music production and this machine is so fast I can't really see why anyone would need a Pro unless they're releasing a feature film or recording an orchestra.\n\nLastly looks - it's slim, the battery lasts for days on a charge and with 2 thunderbolt ports and the MagSafe connector I'm well-equipped for anything. The keyboard is a huge improvement on my previous Pro, positive feel and with a trackpad large enough to cover several screens at once. The fingerprint sensor makes logging onto my machine as easy as anything. I've not tried the camera yet but if it's as good as the specs suggest then this is a machine I cannot fault.\n\nBuy it - you won't be disappointed.",
+        "user_name": "Writer",
+        "source": "johnlewis.com",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0c_szus81IGzOrbqYxElavo4u1yGNCMExVu6L9CSPzZ8B8JvoI7x0S827gxBv2McvPTg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "My first Mac Book",
+        "text": "This is my first Mac Book I have the tablet and I needed something for school . The setup was easy I have the 15 inch and the screen and the keyboard is a perfect size. Apple can be a little difficult with downloading certain things I\u2019m just trying to get to know the computer. Been an HP user my whole life. It\u2019s a little thin but the reaction time is on point. Had some issue with the delivery other then that I would recommend. It is a little pricey but I got the 1T and bigger screen and 24 in storage. Please protect and get a case.",
+        "user_name": "PATINA",
+        "source": "walmart.com",
+        "link": "https://www.walmart.com/ip/Apple-15-inch-MacBook-Air-Apple-M5-nbsp-chip-w-10-core-CPU-10-core-GPU-1TB-SSD-24GB-RAM-Starlight-MDVF4LL-A-2026/19685417647",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1IN2mDgn_1Rr2hLLvQX3oJ_Jh06nmQSs_-178NPf0zOou0RIm9E7_7kF1KTOTzxY32KA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQeffqHqhqGX3D71sHkJnI2-zt9E1lmWhy2WewFq_EfWQ54xn0U8TYXNg5rF9XHgeEvbtzagX0swHZ3ssAnI4CidkbNiW-1",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPC2ozam5MDY2U2cMPu53q5UFZDBk7KSuVgB5HOV8V0SLE9jdA-TJJXWaVAMAUovdXDU5N_14dVVgoFlppFSS097j5NjjpiQ"
+        ]
+      },
+      {
+        "text": "the tape is i self stick it \ud83d\ude05.\nit's my 1st macbook and it feels super lightweight yet solid, nice color, big screen super clear, SPEAKER IS BOMB!!! (super powerful, even my soundbar is not as good as this tho \ud83d\ude2d\ud83d\udc4d\ud83c\udffd), super fast and super fasttt! fingerprint detects very quickly.\n\nsuper recommended and super worth!\nhope can lasts me up to 10 years! \ud83c\udf20\ud83c\udf96\ufe0f",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/1278832578/29744452326",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTV77X6IJp91gI_rbLL-HEl77rRrf3Ci9TFNfIke98lIIKL1GdVGUeh18OQXVPqbwqA92F6aJSHbRpSE1iKGuoI6SEtDg23",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFmUeQ3uPHqmjdy3kur4pIMbAzFVlwRNij2alGwSAX93cDsXJMztVtgv_ISsqJ1ttulz87XbRfhalC4MxDvD9Ihj3zmgv43g",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQI2AjebEzHIPtxu_Vx0BLGgduDBlja20EMWnOMUSX-f6Vhvcqn-VT_53PdLwMYRYEzdo03Z8qDhsTG6X1YMq9_V9w_ONlVsA"
+        ]
+      },
+      {
+        "title": "Macbook Air 15 Inch Laptop",
+        "text": "Amazing Laptop, been wanting one for years. Great Performance especially when using multiple apps and programs simultaneously. Doesn\u2019t lose its performance at all, great battery life.\n\nFantastic display resolution, very high quality. Big fan of the Macbook\u2019s magnetic charging cable, charges quite fast with the 70W power adapter and the length of the cable is perfect.\n\nVery long cable which makes charging a breeze with not having to worry about having to sit close to the power outlet. Best Laptop I have ever owned overall, performance, charging, decent price for an Apple Laptop. Well worth it.",
+        "source": "harveynorman.com.au",
+        "link": "https://www.harveynorman.com.au/apple-macbook-air-15-inch-m5-10-core-16gb-512gb-ssd-laptop-sky-blue.html?utm_campaign=bazaarvoice&utm_medium=Shopping&utm_source=PRR&utm_content=Google",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3Y8svcDT0u5bBaopmCBrgdZepyNmQ379DyRwCOOGtDHlDSIBVQEzItnp2ZJtRWXJdaTw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxLtXY3LOgXw-rhVeO_AM_x3YiDFdqvspuXbWvyp3MJaxPE2K83U3VOAmjkHdZY3C3P_w2T9Cd5ik1t8KvryG5c4FTY4Bkug",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWjIeFW4fYVyXH3t5gFiolSl2J-xRasQp-wB3KXuX55XaIWgKlryu6JNR80vpF53IT9uMOrhe1La6N9zHRBWYsitlqkfN6"
+        ]
+      },
+      {
+        "text": "Performance:ok\n\nNo defect found at the moment. Not yet use, because waiting for the case and sticker and usb hub to arrive, when everything arrived then I will use it as my main office work laptop.\n\nThis is My first macbook, my first mac os experience and my most expensive laptop I ever bought. hope it is tough and can last for a long time.\n\nFast delivery, receive it about 2 days, even it said pre-order. Better price then physical apple store.",
+        "user_name": "dn06se",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/304509804/56206775452",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1TdTyfZSxUevURzM3SoBLc1Yq36AGAYt_1WhRjuxc5xYIrmTr-p8DeBrJQ2Qvt4awUEw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTJ5_tAjGT6x_oosR8-YQmYc8CDwNMhpDwSEgzCm01KSU7jqlYRgq5kELcjCS71B1I0QYiqn5WheaHCGJ_hwPHGPHMOZ9xb",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAc7OI5oRu4undpk2IMd1LyC1m4i4XgEWcnS4GI7MO5MSAN2_JN5_vZHq1LxNA3F37aJM2yIIJBR-rP2zDzU5f_AWp5d6n"
+        ]
+      },
+      {
+        "text": "Performance:Very good\nBattery life:very long\n\nVery fast delivery. Ordered on 28th received on 30th. Very good deal with a huge discount plus shopee vouchers. This is my first Mac. Hopefully it will last for many years to come.",
+        "user_name": "bulbasaur1",
+        "source": "shopee.com.my",
+        "link": "https://shopee.com.my/product/1278832578/29744452326",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1bJKcqB9qYyWCel0HYSIYU7x4COLqdxEaI3qlUlnP3Y1mZDYw2N-Yz2alhqB0l0EkB6A=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOXVn_1mm1GKDUp5fOuFA8zLJk4PxewBy_kecuG_AEDoTAgXFCJwcKkuh-2WOfOAtjCSQSduywTYN4dSq3J8UGvEdfHEGu",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSL-om5jThRv1Mq0GVRlhZO4HCXmeTH7ZMdKIMerj0uSEItDdcAGdV6bdsJB4JBgkhDLZ5oqC3HvkTxsaYWByTRXXWJIPKM",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzIZJotO0qXn_cuCRcuA-93gN_DQS6DIn_ZgRYA2vXIP_VJu9VDxosB-sjWNflJ5NPb6R1dQF3UZCS-HygZ612wjlpBqvx"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "M5 MacBook Air Review - 6 Months Later",
+        "link": "https://www.youtube.com/watch?v=qbV2G-3vSD0",
+        "source": "YouTube",
+        "channel": "6 Months Later",
+        "duration": "14:52",
+        "thumbnail": "https://i.ytimg.com/vi/qbV2G-3vSD0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l2GDPGLZ7SG-rAC2Oyum8Mt4p3SA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRVsAcbCX4HNekeL0o3MME5MPV2H5XHYjmHMQ"
+      },
+      {
+        "title": "Mac mini or MacBook Air? M6 vs M5 Performance Tested",
+        "link": "https://www.youtube.com/watch?v=fF-ymKYKChI",
+        "source": "YouTube",
+        "channel": "Adam Talks Tech",
+        "duration": "9:04",
+        "thumbnail": "https://i.ytimg.com/vi/fF-ymKYKChI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n32CBJTic7PoAFJngW5qmfAAF0uw"
+      },
+      {
+        "title": "The M5 Macbook Air is good, but\u2026",
+        "link": "https://www.youtube.com/watch?v=PEFQUe1xjx0",
+        "source": "YouTube",
+        "channel": "Reno's Tech",
+        "duration": "7:04",
+        "thumbnail": "https://i.ytimg.com/vi/PEFQUe1xjx0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kblXMntVgyfDAm_UIPAOhxZRh_VQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQLmz-gEwFjfSX3iRNV90UUtZihWtQNOC0xgg"
+      },
+      {
+        "title": "The M5 MacBook Air Changed More Than It Looks",
+        "link": "https://www.youtube.com/watch?v=h8_4G2Zs_z8",
+        "source": "YouTube",
+        "channel": "Alex Ziskind",
+        "duration": "21:16",
+        "thumbnail": "https://i.ytimg.com/vi/h8_4G2Zs_z8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lyJ5ADtyaxzYdmX7n5lba6AMUQWg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSotVE1uJjC2FvxNjK063TrwAoepFP28jhx1w"
+      },
+      {
+        "title": "13\u201d vs 15\u201d MacBook Air M5 - Which Should You Buy? | Unboxing & ...",
+        "link": "https://www.youtube.com/watch?v=aZgVM03VJVs",
+        "source": "YouTube",
+        "channel": "Brandon Butch",
+        "duration": "21:49",
+        "thumbnail": "https://i.ytimg.com/vi/aZgVM03VJVs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m377IhYRzz98wDIQeSR59jYoB4UA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcToOvKcpt9mes2ZJL6Yye1LfGRGjvV_qlcMqw"
+      },
+      {
+        "title": "MacBook Air M5 Review - Forget the Neo!",
+        "link": "https://www.youtube.com/watch?v=Rlw_CI7pOKg",
+        "source": "YouTube",
+        "channel": "The Tech Chap",
+        "duration": "12:45",
+        "thumbnail": "https://i.ytimg.com/vi/Rlw_CI7pOKg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nm1-TkaTHNPikOGQQqlyueDrr_lw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTQ0MuW8Ecmaghp0GpTkZsP6OBqlN6Erp9_nw"
+      },
+      {
+        "title": "MacBook Air M5 After 3 Months: Worth Every Penny!",
+        "link": "https://www.youtube.com/watch?v=pCzXIFzNhBQ",
+        "source": "YouTube",
+        "channel": "Kyle Erickson",
+        "duration": "14:21",
+        "thumbnail": "https://i.ytimg.com/vi/pCzXIFzNhBQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lh5fT1jOwzjt1IQgm2UQupqoYW9A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRueYDAQfsOtaMpegIogdpy1NM88yV1hdinIA"
+      },
+      {
+        "title": "MacBook Air M5 Review: Is It Worth It?!",
+        "link": "https://www.youtube.com/watch?v=vwiVKbIx1Xw",
+        "source": "YouTube",
+        "channel": "Technolobe",
+        "duration": "8:53",
+        "thumbnail": "https://i.ytimg.com/vi/vwiVKbIx1Xw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kiuRPFx3CEHW8aAN7a-0inQ3lzMQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSCE__8kzLKPYT1R_fmfZOranfY2kI16dS5Og"
+      },
+      {
+        "title": "M5 Macbook Air - Review As a Daily Driver",
+        "link": "https://www.youtube.com/watch?v=c-xOi9FcSqA",
+        "source": "YouTube",
+        "channel": "Marko",
+        "duration": "16:54",
+        "thumbnail": "https://i.ytimg.com/vi/c-xOi9FcSqA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kytjCl88G1ZVrQtcWENR4DBaYoEw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQucuUE0NVHByQu-VdsCor3J7PHyE4t69dusQ"
+      },
+      {
+        "title": "M5 MacBook Air Long Term Review - ALMOST Perfect...",
+        "link": "https://www.youtube.com/watch?v=i53Qur_WGE4&vl=en",
+        "source": "YouTube",
+        "channel": "Created Tech",
+        "duration": "14:21",
+        "thumbnail": "https://i.ytimg.com/vi/i53Qur_WGE4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k6UaJ-KVvD00UzhncYc-vRrPvghQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTOAyyHN6kmuVni5JLTo-izcZZhGH1oAgdnQw"
+      },
+      {
+        "title": "M5 MacBook Air in All colors: Sky Blue, Midnight, Starlight and Silver! ...",
+        "link": "https://www.facebook.com/futuretechAASP/posts/m5-macbook-air-in-all-colors-sky-blue-midnight-starlight-and-silverwhich-one-is-/1085199407564583/",
+        "source": "Facebook",
+        "channel": "Future Tech - Apple Authorised Service Provider",
+        "duration": "0:28",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBg1fmRakjstT2IOnWMi6Egqtv6KjNEMK-mICxYAZ38aA5zQ&s"
+      },
+      {
+        "title": "M5 MacBook Air Review - Still So Freakin' Good w/ Real World Tests!",
+        "link": "https://www.youtube.com/watch?v=yZfFUt1Sypo",
+        "source": "YouTube",
+        "channel": "Brian Tong",
+        "duration": "9:51",
+        "thumbnail": "https://i.ytimg.com/vi/yZfFUt1Sypo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mzbSkOZUEwPp2AAQ1N75_NIBsTIw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQD1z4k1r6WgdEGunLf5fvHZgPzwb4uZSUV4Q"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Macbook Air M5 or Neo for university work?",
+        "link": "https://www.facebook.com/groups/applecommunitypk2/posts/1478400303863622/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "6 months ago",
+        "comments": 13,
+        "items": [
+          {
+            "snippet": "Positives for M1 Air: Base model has fingerprint sensor backlit keyboard supports P3 color space (I do some graphics which necessitates critical color work as w",
+            "link": "https://www.facebook.com/groups/applecommunitypk2/posts/1478400303863622/#:~:text=Positives%20for%20M1%20Air:%20Base%20model%20has,which%20necessitates%20critical%20color%20work%20as%20w"
+          }
+        ]
+      },
+      {
+        "title": "The new M5 MacBook Air for casual gaming? : r/macgaming",
+        "link": "https://www.reddit.com/r/macgaming/comments/1rx1scr/the_new_m5_macbook_air_for_casual_gaming/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "6 months ago",
+        "comments": 17,
+        "items": [
+          {
+            "snippet": "Performance is not an issue for M-series Macbook Airs. Compatibility is the concern. Most Windows games will require a compatibility layer like Crossover. My 2023 M2 Air destroys my Surface Pro in every metric, even running under Crossover for graphics-heavy titles. The M5 should perform even better.",
+            "link": "https://www.reddit.com/r/macgaming/comments/1rx1scr/comment/ob3rt5a/",
+            "top_answer": true,
+            "votes": 35
+          },
+          {
+            "snippet": "I haven't played long sessions yet, but I was playing God of War Ragnarok via crossover yesterday and it ran great. It was just a short session to test it so don't know what the throttling is like yet. I have the 24gb version with the 10 core gpu. I would guess power-wash simulator would work just fine, but don't quote me on that.",
+            "link": "https://www.reddit.com/r/macgaming/comments/1rx1scr/comment/ob3rh70/",
+            "votes": 6
+          },
+          {
+            "snippet": "Especially with M5, the chip runs HOT under load.",
+            "link": "https://www.reddit.com/r/macgaming/comments/1rx1scr/the_new_m5_macbook_air_for_casual_gaming/#:~:text=Especially%20with%20M5%2C%20the%20chip%20runs%20HOT%20under%20load."
+          }
+        ]
+      },
+      {
+        "title": "What's the best store to buy Education Discount for Macbook Air M5? : r/Tech_Philippines",
+        "link": "https://www.reddit.com/r/Tech_Philippines/comments/1uw1wc8/whats_the_best_store_to_buy_education_discount/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "Try TimeLine/inBox if may malapit sa iyo. I just bought MBA M5 13\u201d 16/512 last July 10. 88990 yung SRP nila while sa Powermac same unit is 98990. May educ discount sila + may freebie yata ngayon. Apple Pay or Apple Care+? If tiwala ka naman na hindi ka burara sa gamit, you can opt out. If you want talaga ng additional warranty then go for it. Parang 4k to 5k to. I don\u2019t know exactly.",
+            "link": "https://www.reddit.com/r/Tech_Philippines/comments/1uw1wc8/comment/oxfrc9e/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "Education discount is just a uniform price regardless of where you bought it, it's only offered at Authorized resellers. The pricing is as shown in Apple Education Website which is 83,490 for the base m5 macbook air. Stores can have their own \"store\" discount in which they have their own pricing, but store discount + education discount is not allowed. If store discount is cheaper than apple education discount, then go for store discount. Though I doubt may authorized reseller ngayon (at least sa physical store) who is selling an M5 Macbook air cheaper than education discount. I think the only (physical) stores right now that could possibly be selling cheaper than education discount are third party shops (yung mga nag import from abroad). Since macbook is cheaper in many countries abroad. Official warranty pa rin yan kasi international yung warranty ni macbook. Meron din shopee/lazada still from authorized resellers, those can go cheaper than education discount in big sales. Last sale n\u2026",
+            "link": "https://www.reddit.com/r/Tech_Philippines/comments/1uw1wc8/comment/oxomqrh/",
+            "votes": 1
+          }
+        ]
+      },
+      {
+        "title": "Can M5 MacBook Air handle Logic Pro X?",
+        "link": "https://www.facebook.com/groups/543628065696081/posts/27423339250631598/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 months ago",
+        "comments": 17
+      },
+      {
+        "title": "Should i get the mac mini m4 or the macbook air m5? : r/mac",
+        "link": "https://www.reddit.com/r/mac/comments/1uq17wt/should_i_get_the_mac_mini_m4_or_the_macbook_air_m5/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 months ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "Right now is the M1 with 8gb ram limiting to you? If not I'd recommend holding off. If you do feel you really need to upgrade it's a super simple choice. Do you feel you will ever want the portability of a laptop, if yes go air. If not get the mini",
+            "link": "https://www.reddit.com/r/mac/comments/1uq17wt/comment/ow4bu3q/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "They\u2019re difference use cases. Do You need a portable? That\u2019s the only question.",
+            "link": "https://www.reddit.com/r/mac/comments/1uq17wt/comment/ow4c56j/",
+            "votes": 6
+          }
+        ]
+      },
+      {
+        "title": "[DEAL] Best deals on MacBook Air M5 (16GB/512GB)? : r/macoffer",
+        "link": "https://www.reddit.com/r/macoffer/comments/1sdoc0d/deal_best_deals_on_macbook_air_m5_16gb512gb/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "6 months ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "INvent apple store is currently giving heavy discounts on the Apple products , I ordered this same spec mac @ 99711/- after student discount + card offer + store's discount",
+            "link": "https://www.reddit.com/r/macoffer/comments/1sdoc0d/comment/oek1e90/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "We are in the same boat.",
+            "link": "https://www.reddit.com/r/macoffer/comments/1sdoc0d/comment/oel5ql6/",
+            "votes": 1
+          }
+        ]
+      },
+      {
+        "title": "Should I buy my M5 MacBook Air and iPad Air right now or wait for the Back to School promo given the impending price hikes? : r/macbook",
+        "link": "https://www.reddit.com/r/macbook/comments/1ua6f3e/should_i_buy_my_m5_macbook_air_and_ipad_air_right/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "If you\u2019re in the U.S., you could purchase from a third party retailer that offers a long return window (such as Costco or Best Buy with membership). Then you have 60+ days to wait for the back to school sale and keep/return the originals",
+            "link": "https://www.reddit.com/r/macbook/comments/1ua6f3e/comment/oslsb1w/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "I think this is the same thing a lot of us are asking. Honestly no one can really say for sure. There have been a lot of articles out in the last hour or two speculating that the price hikes will be coming mid-cycle and that it\u2019ll be convenient to line up with the back to school sales. On the other hand, I\u2019m sure WHEN the price hikes happen, not all retailers will be aligned and simultaneously update their prices. So I know some people are just suggesting buying asap. Personally I\u2019m waiting for this weekend / prime day to start before I make any decisions",
+            "link": "https://www.reddit.com/r/macbook/comments/1ua6f3e/comment/oslpvsv/",
+            "votes": 1
+          }
+        ]
+      },
+      {
+        "title": "Are there any offers on macs on Croma? : r/macoffer",
+        "link": "https://www.reddit.com/r/macoffer/comments/1o9v1rp/are_there_any_offers_on_macs_on_croma/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "11 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "they don't have offer but say it like i got one offer from another chroma for X amount, and bargain they will reduce the price or give you some coupon which you can use another time you shop from chroma",
+            "link": "https://www.reddit.com/r/macoffer/comments/1o9v1rp/comment/nk4x7rf/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "What is this? It also shows 10K off on credit card, what is this OTP page off?",
+            "link": "https://www.reddit.com/r/macoffer/comments/1o9v1rp/comment/nk6m7ka/",
+            "votes": 1
+          }
+        ]
+      },
+      {
+        "title": "MacBook Neo vs MacBook Air M5 2026 for casual office work + occasional LoL and WoW \u2014 worth the $700 AUD price difference? : r/macbook",
+        "link": "https://www.reddit.com/r/macbook/comments/1s358os/macbook_neo_vs_macbook_air_m5_2026_for_casual/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "6 months ago",
+        "comments": 14,
+        "items": [
+          {
+            "snippet": "You should buy them in apple's education store. It's 950 for the 512 neo and 1640 for the base MBA. If you have the cash, I'd go for the MBA, but neither are ideal for gaming as they are passively cooled (there is no fan) so performance will throttle to keep the machine cool after just a few minutes. Both will work fine for now, but the MBA is far more future-proof. Much faster, double the RAM, newer processor with far more cores and a much faster GPU with again a lot more cores. This will make a huge difference in the long run. I own the neo btw, but I don't game on it, I have plenty of other devices more suitable for that task, BTW, nobody checks whether you're a student, just order your macbook from the education store, it's apple's unofficial way of undercutting vendors and encouraging people to use its own store.",
+            "link": "https://www.reddit.com/r/macbook/comments/1s358os/comment/occzhua/",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "What's your wow usage? World quests without too many players might work. A world boss would be hell. If you are planning on M+, raiding or any group content, I'd say forget about it, best case scenario you'll be a burden. If you want to do a quick run for invincible while you are away from your big machine, that will be fine.",
+            "link": "https://www.reddit.com/r/macbook/comments/1s358os/comment/occx9i5/",
+            "votes": 1
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "MacBook Air 15\" M4 \u2013 Sky Blue, Midnight, Starlight, Silver | 16GB & 24GB | The Apple Store.in",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ2jyni6FwPbTILROMV60r4LaYr5inC77zAJZov58V0ktt232s6dU9V1u30KX_R9Vf3xNDI2xKA4tTluunRnvQCkHHneTVRBkzk34ggVipmuvxZTMaPRdaUxA",
+        "price": "\u20b91,24,900",
+        "extracted_price": 124900,
+        "reviews": 1000,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UuCSn3icdVRJzuvGEU6QE-QQb_Ugo8nmmB1nUhJJcRa5ETiPIimSEgf4GrnA_2wDzsKA7SDrXMNGkLOEesk2QFd3ob7CV4Xqqvr3H_78kZb_yGkoh-Ot1I4SBBfhMu2qb_zYD13yjKcy-TsCMBRAnMIAgeEQBTgFsB_jcAqbLi-TXxECAoImAIkTNEnSgALglyINk6ZsUz3L0oHv4jcLJAgKEADbFZSiMBpH4N_Ke5inX_FfKQhJmkBoAkcRDAcQIODLkIy_YRfutocgCARQNE0RGIaiCIDw24up87f_A37_eKbD-tM9jKOuqz-H5fD5jn2f9-9AOKQgBnGCQhFkF4yk6C_3MvkFJwnsnRmEKL7DKAG-9K_po8i_ez6b9Of5M8cohsIpouXhdegJH3nzUbYfRfORtj90Yf_K4t__-C_hqXDcQ-EMp-9d3gRWiWiRo4UuChDTNSXdK8ZICPQrwuB2G7SOkG8hz-K66540tGmi-liq9YiotvaKJGFz7ubZAsdJc8YllQrdvLKsW4u83bogEvrBco6YLiG9fW38CLiuVou46ZllVAW8sxVmtDVeLBWC59GB37CuLmuKIxZ9IuWzWpmGcWUfgdz4KtSgCUzpiuJH00m6gGdb545o9t2ftHtTBbIyxSiGhIhrxILI-k2CqMBYIiRAE0-cHFScbbtQ7To5mXUhG6houk7PRXxzcuxiCRyx9rfgEoHJ0-V4dT3k6jfKZLRFq27Nmkq4GlWsmoBCC7cGaq1LnO2j4tQLYTnTGPPsnAruXauPhucWvouwZiAVz1gMMhPtx6huVs8OjERCLs6VrRIptkS0qFVQFDF6vDtCk5lXBtNEZophIGqNeJTKI2vK2qp7ge06CUzsva4O3apuL8ZN8PRhYgSOqYdVPKuS1n63jEP2G2BEfLJ0YkWCQzVqlovrXk76s0q2YzE-Oq2e_4KQNIJRECX3ycB-iPceLNPf__RXS-esT5DfG-kTZD9bAmNy8s1iVMFSbOEN5IZyewjsG2UEbrcwYUgLxz4xZ-QAF50qvKlP8lUWmSsdtAMul7GTAjyzZTRMsHsXi_Gje4lQnN8ckq5LZ-HGsI4l3ISroF5sRdd2WoXfL4qGgKSIGE9RAiUz8hNkbHW3_zd5FAXUbnknMeyvctkVGv0GQeA3KILvQh92s_WVbMLuvSe55zyPX-IoLO3rhlHvBG43K42fQ3qwbPNNwLBawRCFWDyQ1HWOjE4QJjwMHonzo3h5DpOT-wqf0Q0X-de9wWUx0-m2PUch6NFIp5c2Ajcb1RueGIeHWqZRhJapQ8sxyNYkt1DmHZV391Az6Gm-snws6UxHvuDP29pNQlwQx8tJMLu3n_a1DNxj5DhGsKAhsPoi8dbZ72YyvLyoLVx4YFhVpfgvYb0G9aj4Z59M73IUJsNyWK0RM9hbuEYvUtxK6eGbUav6Wp_2hL8xgr0UzFVSifJ8KF65IiaE_AKqgZFzGz4MrDI06ro1B_Ok2SOgksZb3Nvhhkv5Pudbw66dsMzu_JrPGJ0eiO7BFfA2ZnisVYe16y8I_3ydGlBqzHKEL0TGsiwbdcWkcXR8VprZnIOwvHOPO3nqry_Lc216WNlpzEYp3VxSfvWP6PRIC46YzzG1xVnunE8pF5_V-77DUnY5CPcyaOk5gqm5ziLqNzcyBLiVs2rtsOAxyxt-ELCAxUl79FUGw8qTKurzWU044hTk1VRD8oAuZ12qfYHEX1MbzJXaK5FwWs0OgkFIDBiFmjf0nT6kMeWsc54y_vtzHOf8Honqs7cJo2oru8S4ahuYuimotu821WZmlVueibeMZ3FcVd7B1c3HNJ4ZtS3HtUrBdJ6Zr9b_fDiwnCtmjFp3jLgZvRo7_X72LZ_98z-8wkl2"
+      },
+      {
+        "title": "Apple MacBook Air",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRf4-RjIkh_1tTF5bX3XbWB9KOzFs9kYGDniz14e3w4Cj9vZ1uUF1vtDy5y5Z1Ex9AptgmK2u0NQA0KBcBEOK1seSqJtLQnPh3m70tc7KqsQGWsRlFkxahhog",
+        "price": "\u20b984,900",
+        "extracted_price": 84900,
+        "reviews": 30,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2AL8A3icbVXJzqvIGY2SJ4iUV7irK7eKocD0DgOFsRnMbNhYDGUGg8EGMymvkRf4b3dLnUVL6URZ5zW6F3mW4NtZtkRRpe8czjkFX4n__uHPH7j4d8ZR-6i7FPpBpsBJOvXrMjB_bJ9N-kr6Iv0XAWgSUHBLA4aGFAngFtA_JlEfVU32G8xBFpIsCxmGoIgtpImfcxylVXHHxvWKn2KTvHnr01uG4TgSbFe1N5X6e1FHGf6K_3PLcRzFsQByDKCI1QjCL8-0-4U8CRdqTcAxW5IlKMgRbz_uryfLEC-_j33_eOHn_FMdJXHT3D5HxfNzTX-ftW-b36F_qYv0Z8gyNENChiVoAAEJafClHfqPPPvu9arwP8bPAq-YiqAg24e3yJc-suqjuH_k1Qe-_9BE7XBNfv3jX6RmFIVuFEy3bT3RAo4Er25NOFiaSlsMoSPdZq-sdm7dPyy5cnTCqh2XULCcu9p-JyVeM-qLNickUmyUa1EpLTGhz96iN1FtKSlR7WIwUp6bPuK9CR1UoVQKu6iG0JOmW0RlNJYACOWcigAhOBU_-RUCqZ8eU69SY8TJnpde3TKt9MoTXI87uet-sVgBDelkXB0sm0gnzedcE0A5ANDTbvkYLgjZri44coUwQkYImtmpYYXr_qRLOumitMHosHh-r-m-1Vqid1O9tMTVwQtI_Y731WT6fW7XExGK1lkDPRPLsNFIbh_OYAnL1V_UB-uMSMfVkb0gaNV5rpWeHtnE4N8rMwaWHXsI4NpSfb9FputOdr2d0sUkEvFA-CiBOsilAISagbzBclMQAu4VrQnsxaSsc15oYBp8lD4MEfUJ4jSbqkjNzT3sHsoYQNqTTRuR-U0DeZ6Qh9qVqqt15mkd8X1ChUiv0EEuDjtrr8-GHzqmn0DV9Vy3hnpSpTvs3YjEQXVAco0mHwYsIeq7qXtefwE8gr1tMDMRbspOtz1o-BkbjBp77_Lu0ei38VuCXTtyS5EsYDj6h2Tt3QL_-qe_2YZgf6LEtQE_UbvPtsRbwv5i85pkK470BjJTuTyk3RvlJWGt8FHESYc2tUZiQ03GNvf7Ns3mPeLPXHh_wn2RuBjAq7Mno5SumwQlj2ZAFBrfGrJhyKp04XeuLV2ks6SdHMXQV1lFXG9bjgLslkkgJhmSvbKfKN7R1vpv4cn1dK-Vd4jnOiundcGR3xAE9Q1JwHVwm7VsfxXr6br1ZU_NsmRAnTTdhwu9fQe4XGycvJ54YzvWW4Df6TnP5Ch_ENhzD7zBMBa1efosFDt0ej17NwsU8cpVQhycPRDv0dXg7nc1jkBLxgY33WNwcUijEpnu-dAKHMdkgV1un4DrnGY2yb9dRW-1GkHLiaUd0GljufsTfF3mppeSnDmcjpLVvHn619cgPDpB4CWbMqWdMcmirQbNyEanYbtEkwhMuyyVYJDmc3jrlEANWFzv4yh9TpvZ7mhzd4nmeGDRUsiPwIrvWqC3uGWChZecKefPssYU6iYfMgWlzH4Amkmz4z16mHRp6tvzUm2so-50YJtW_uRdNhcoZ3JuLNVubqRp9MZhVGkOb5jmIeTUpbvCRC83c9OeCPE1HCtQ6Px0oAZiT1-v185QLA6S3avUrUoNo6IWHjV7bM-D7XsO95x3fXftZLx47H5oH_HxgXOBGdVkuyTXzFWPWEhUrVYEAe-mjVQX4Z0bYwpb84jIoLqwEYB2ttNu7g48xv0CNxId7iDrdIHG03Rx1JAxqloqMMcwK_sbxW7ISTXkWyCxcOjv4VhqrRJLx9lqKPCUUpOKI91_to3xxMnWnccM88H747iu-j4S5Wd_kTrNUdaRQM0xaW1RSF10F83hR02YXqk_dSrqZk10obYEtC7ynb5kUC8V2hD58Wz_nyOASS35Lr57XSyM5Nlc5ddr_Ttc__M_BBRYrw"
+      },
+      {
+        "title": "Apple MacBook Air Laptop - 13\", M2 Chip, 16 GB Mem\u00f3ria, 256 GB, Ez\u00fcst | 10.000 ft kupon \u00faj feliratkoz\u00f3knak",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwOmsVLj40RxrIJejEA63OMyIvDIlzGzcA7n88ed8UdOJ01hyZFu8NOFpYYnWTOlhKMUc6T_CnEIG5XVD4PDFP1GK1F8x438OLUyaHS1RZE-Tm5qdC1FRH",
+        "price": "\u20b985,900",
+        "extracted_price": 85900,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uz35GHicLVTJruu4EU2QL8hHvNWFGxQlSlZ2sibL1mDNljaGJmuWZUnW9B_ZB_d1N9C9aCCdRtb5jfQi3xL5JSCLLJxTOFUgi_zPH_78meT_TGn8GPS3XD2JOLjwl2FzPf2ntnvEr2jI498wQECAoz0BSALhEKA9IH6KgiGoHumbJigMAYpEFIXR2yBICvs1S4K4yptEu9-TjntEefwPSCASpzapLQiRBIAQ_ZzXQZp8o3_DKBqnKQLD9wDiOCKxzf_axf3ffni-km75pQ6i8PEoP4K8-6iJH9L2rUkTcA-30hAN4R6DCFLY1zqPf0UUSZBwv8dxiDYtSIKv7Th8Zun3r1eV_H36YBlJl1hJMF1UBi7_mVafefOZVZ9J8-MjaMd79Psfv_JdxLJjdNDttnU4A5huhkeFIJh21bnX9mpXghzV5aA4J9F2TpIjOjBeo8UEamkUhmiWw1nHD7O-OoFV-E1QGpoBYjsSER-LSA0axwttv_ZFHcauA3R7IMyKzlXLQYbjezYm4CbvrVYVTzF_mv0qE-1j5gWrkYWcRPil6iql4LucXyiFfw7sbA4b_-I1mW9BoXa4bPEKQ5MtfkpsnYgLZzTtrHDdGItAj3lrOfv8zDq2jvTV7x03IoImPisODfQFy8OSHyJxWlR-GAO3wuLCt4O6PRuFWvpAIczScWLO6H3cXlWHvkaVodv1DK_QLxPLwGXbR8H1wMZNa1v1IPizdA1EfTVFYfVqXzcdWoi4FNgstsalDW27DKRS4CNcQn5lkB6ICxPEusaCwT7Gjnn1q5g3_Cs46fbqL7YbfT_33f3fgBHQYGpUietd_KgT8oJdDoY3SHAil4M4FVX6l62_MGKPQwqQNPox2lopT37_019NjTW_4NzWD1_ww4fJMwZ7vJmMwpuSxb-JVJduT_7wZhme3RAmCGj-1MbGhO3wWdtn7tDG6XIUmCvtNx065pGdAHS3jjCIifoRCdHzMQq4ML01RE0TZf7GHGyTv_FXXrlYkqZushK3LXsaB9SejFACSUjdqS84Yykb_r_iIQT7DXkX0W27dNkcGn6HYfh3EEOb0bsNNr-JDUTduqIjp2k0Cj0_N-ON2L8LuN3MJHp1yc60jLcAc1AzhsyE7Ikljn1iNJI08F3nUojrhcurG-zUk7g7XbGhd3VAeBTuGt00chiAFoYaPTchuFlQqziy755KnoQhzBObPkbgvsSpCZl3Vs7ZUk2gpbnC9Ij4YdjHC3rdlsfARxl5upx54_GOU78dA_vsWZbhTVznD9oscqbsPSYquIz7NZg5oJtFIXkjv1z9spc82aOS-hgGcTfvFrMn9MMtWMKREtZcfHpG2Cie2iYt6a0Mb80ZcxUVMpd32ZhKQkweR6DoBDU1wVMnCl3dX9dqZ5xVqwf7uHJn57a7ITEVM22tDsuDnydnGieZoJMd-XiyGX7r7yhSi93yaC8Y9xrPFchVZj7hI3Yk7vd7r0kGjWD_KlSjkv0gr9lnTZ3b62i6jkV3y2Ho772YrA51HNtneH4mGUtOcrRfo3tqy-eEjWSlllg2Ocw7vs79hp5CPDGWSYBedaMCgMz0oJT2ATyn44p2POEfEGX1nsIQRH5WBG2SlZglz35aDCVO7eAsa2Lp8RQah8afCqWVQv68GA8cdHys42Ggul370Lok2tvLlCaM974c25bfT6L4cFe-Vyxpswgplk4oqwRVzl4Vi5kUdn7F7tzLQr8onI2U1SNUjunVNUVqIREax0xX8_8xLJjlgunDxulDdoJXfZPf5vZZ3__1X4-kLA0"
+      },
+      {
+        "title": "Apple 13\" MacBook Air",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTr7VRAHk9cyblP5NzoddmbOTBF8Fl2OX1g4E34Y3VtJCQlJJcLTmEOlCcAs3pg9js2ScsBcZJz9Z6TW_5INLrvnPQT0B4z_2LJqJz97sfwa02BlV-pHwTMBg",
+        "price": "\u20b998,000",
+        "extracted_price": 98000,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SGDh_HicLVTLzqvIEU6UJ8hDnNUvj6Cb5pIdd7ANmLthY3HHNgYMmNt7zD76z8xIk8VIM4qyzmtkFnmW4JNp9aVUVd9Xperq_u-f_vqZXf9VMFCJ-stV38sQO4mnYRMD8-e2a9JXMlzTf-IYATCIaAIjCQQBhmiM-DmJhqhqireZpChEYQxEBEPSgAEIoN_KLEqra50ZeZ51QpO8_QhEkThDIoTTmyfYBv6P6yMqsj_sAGEQwA2NUwS1UUEKfe3S_u8_Pl9Zt_zyiJK4ae4f0bX7eBA_Fu03EALkxkYQJNoQ-CYh8PVxTX_bYhEkoBka0QyiIEmCr-04fJbFD69Xlf06ffCsaqq8Ktk-uke--FlUn9f6s6w-s_qnJmrHPPn9z1_FLuH5MeFMt209wcJs4EkpXo4ODBbH25e2b90scTY1ubV9xRLjeh_pshQ5930ZwT2fnqWXIYeYeZZgpLRDIraVXYdkIt_nGGdu1oZxZCsPFYtPb3tNezBNVnNKLDNKdA8fjj8tqRzW3k06OkrlJ1jI2atkpXJFZPXe8AVpcjCv8hUVuAt-TleOMOtqzm5eEAmSr1WpGG-5GvLcGpIeZaKlGD5CXsXxgcPiqeI5iVSSrmvlFiZp6TkMvfugpW67xkq7eBKDzrA0Xf8-uFUDbP8-mQ9JCgEDwzUZbFCG2sPjIyU0PKcyNIkjHVAGnqRPnhLubZhWnpjAuG7WAEp711LPkWyutiytwSM0bY-REqHAXB5f07sLXPceqXdpQ6gorPRhqxwRi6h1feYQr3s-q7jcwTQYuUzlywPpwOSHue_y_2CshAbboO7Q7NLmkZEn_MRZwaCCiVw4ebpVxd9wisEJGgIKIxn0U7L10jX7_S_f2wZvf4HC1g9fIPdhi6zFKxeb1URbdcS3oTDVy1Pk3lZW5DcNG0WMuG9Ta8J3cDbo0h_atFgUiT0zYd0h5Zq4GYZyRwFRSjyaREqezShBaXpzyIYhH8ULy7m2eBHPonZyVEPfaFVh22gGYhRNJigDJKBy6gtkHW3T_z95ADB607yT6LZTPW0CA77DcfgdwNG2mN2mtr-RDcSj9WXvWBTJKPXiXI8Xgn4ncLnYWfLqsp3tWG8CltNLliyl8olnnrtnDZK04K7zKST00unVDW4RqELOVHwcnD0sVqTcYOr6GEdYC2KDmesYuzjAqASy757aNYtjcM1cRkmwfEkLG7DvqIK3hZqwlhFudkCkjeUqJ_S6LM0gJiW5Px1Eq3n76d_KwD97nmdFG5oiZ8yyYB-DZqKi00iv0Sxgpn27qcEoLufw3qvBMaCyhxJHaTfvFrsnTO4SLfFISetVfgZWXGuB3mYtGays6Mwle5Y18nrclWOhSimpjJhmEtRUR0-TuJk6fV6rnXXQnR6j08qfvcvuguRCLo214pZGnCdvGqcjwWQ7snnyJbz0OUr0225p2hMuvMZDhV11dt7DEVeIPM97Q7UYBPrXTbeqYxhdH_zzQR3a82j7nsN0Czf0eS9nq0cpY_uMD8-s5MnpmNBrkhfu8ZDxyVF7qDyfcfNOfFzDmplimFnLJIGgulARhuyC0-4uhz0nZUU7kQg5RDl9oLEEcT1okjEdtZQnD2FxG-6Q2oH5aMj3QKTQONThdNNaNRYPi9VArBNTE8aR7ndtY3RZQrvLVGRs8L4c1z2-n8Ttw1_FXnPUbSVIc0xCW1WgC-6qOeyk8fMr9ef-KPWLJrhIWwNCF9heXwuk31TCENjpbP_hw2Pz8cb2ce31MT-Bs7nRb3P7rPN__w88zCkS"
+      },
+      {
+        "title": "Apple MacBook Neo",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjD73cO1mmCzaNsUUvgbclXc9Fa2UXrqeV_4vPj8fElxu-qHHJwh0nzx7yRtk_Or79oUJ-A7UAJyWTartXDYeJ_ijrOyPwr80v7OXMkfCHn363cLIfCJWd6Dg",
+        "price": "\u20b979,900",
+        "extracted_price": 79900,
+        "reviews": 6000,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=F8BbyXicbVVJzuvGEQ6SEwTIFd7qQUazyeaQHcVZ4iBxFLkROImDKM4SB_gaucD_bAP2wkCcIOtcw17kLKFesjTQE6q-_qq6uqr7P3_480da_CtjcDkcroV-kHBwEk7jtvTPP7Z9kzzjsUj-iQECAhzRBCAJhEOAaED8GIdjWDVZkfxC4zTGIITRiKIYQJA4_CVPw6Qq6tS43dKeb-I3CYIMQSFyQ2A0Q2CIwNFPxSPM0q_6fzAkQZMYSTCAYhiAGJqhvvTJ8Cs8cVcSp0gGIgQphkCQBogkvz2ZBn_9fd333TPtl58fYRw1zf1zWPSfH8T3Wfs28zvwL4_tEIgiCRLSNE4hACEJEfGlfY0fefbd81mlf58-c6xyVjhFtDx0Dz3hI6s-ivojrz7S-ocmbF-3-Lc__kVoJp4bJu7stK3Lm8CCMwguh9GGpmEKMx9eqpNn-3gsHqxEFJBXia39SIDjVKe4Ns82xrSm64-6mBQxLpqqnbQB1sBQ0qB7b5-xra-BcF8CKQk10YeOp5OuLJZ6eZ8sz-2cUpTOdXsMLvsmdVoU4Q3hO7MfiUlnP5DvwmrvytVk12ZtOQcluZudY7urJorQLrNFq0VZ54OzLZu47hBj4h2gcWmb0Mv3kZCY4eU-hxBVUWVavjeLqVeNuhdYjtT2YbUvHbhhheCkWtjDhbnj3IN7Uh8mS27GuGq7bW8YOeZql4kbS6PlyPnDemiTJ92hJqEqld3ellzFFPUusF0uKs1i4_FM3FSSSyWY9nlNHcawpREPRLGOPCy05MPREdt7dM8vGjzYFiCAb-fgsiZ723X1s4eNWpnoIYfVmq0rWnXQIsettaoBPlbVaamsqdg6ljAfHVmxRJjfNZDnMTw8HKG6mReW0EV2jDeLeiUepOKwN2V9MbzA1u7DYmMOsJz5GPIH1az1XBcY0wbmYHiuF29x-24e-tuvgBXRaBnkqvENPZDd8xGouCAxBfvkTEq4HYvprxjFYASNQwqQDPlDvOVukf72p79ZBmd9wvktAT_h-8-WwJqcfLVYTbAUW3grsrNy7YT9W8sK3CZhw5ARDm1iTtgOnw0698Y2yRZZZC9MUPdILmInBehmyzBMiEcTi3HXvERcnN4ckmFIqnBl91tIrsJF0E62YugbrcJvA83ggKLJGKVblVA36hPO2tom_5_zEAJ6k7yd6LdZOW0LBn6DYfg3EENbZ3ab2PpKNhKP1pNcNcvilzgIc_26EvTbgevVSuNnn-4s23wTsHs9Z8lczDssdZ0Da5Ckie96j0L8IJ6e_ehkvsLfmIqL_IsLIlm8GUxdq1EIWhgZzFxH4GpDo-LJoe-0Io0iWGxpJMfgtiSZBdm3Vd7dTE2gZfjS8omkMR35hJ7XpRmFOCcPp6NgNm-c_jUMXDdwHCtY-FnYG7PEW6rfTFR4etFrOPPgbJWl4r-E5RLcB8VXfSp9yFGY9PNusQbivL-GS_SixLWQOt-Mas3X27Ql_ZUV7DlnL5JGFuouf2WKmJDyC2hngprqsDsT5VmnL2u1M4-6PQA6qbzZve6uSMqk3Fir_dII8-ROr0klmHRHNh2X49fhhmK93C1Ne8L45-tYgUJn5wP-wmTidrsNhmIyCA7PUjcrNQiLB9c9qGN7eW2Pis30y34cboOUri4lv9ouOnZpzpGTGtNrfMsc9Zhysao9FI5L9_NOeBRBzUwRnprLJEK_ulIhQFa21-7OHnSTvKKdQAR7RNmDr7EEURw10ZhULeHIY5CV4x2ndnBWDenuCxR6jXUwlVqrRMJxMRsc9EJyxqNQ9_q2Mfo0pp1lylLWf1-O46jvkig_e6swaLay9Rhp9pnQVgXqvLNqNjtp3PxMvHlQxWHReAdpq0_oPDvoa4b0UiEMnp0u1v8xHJjVkh2i2h0iboKX80a_te13uP37vz8RXBk"
+      },
+      {
+        "title": "Apple MacBook Pro M5 Max chip",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbXJJg7CviFP672XajXUxBl_d_w7WVo0y6U6wDt0zbn7VEsXc2Pm-fcMmPIP-ayqoTRbKz_iToI4YwYt-jQZhwYIN45rIyaHhXt5512UDo4K8aSgHj3lw7Hg",
+        "price": "\u20b94,39,900",
+        "extracted_price": 439900,
+        "reviews": 5,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=292lQ3icbVVJruvGFQ2SFQTIFv7oQ0axim1mFMliIzZiL3EisCcldhIpUSK8jWzgfduAPTAQx8g427AHWUuonwwDsMjCPRfnnFu8VfXvP_z5I6__WXJIicdTbWoyAntpP63To_3jcOuzezrV2a8EICFAFEsCmqQQBBQLyB_TeIqbvvwKcyTFfMU4AtIkQoD-pcrjrKm73CqK_Cb2aZ39g2UImgRrHgcBQAygKO6nuo3L_Cv8K0ECalXgCIJC1JsRIvLLLRt_g3vhxAKWWmkpSDMUw0CGRMS3e8cST_8f-_56z2-vn9s4Tfr-8jmub59b8vtyeNugAKQYkqUhIiBLMmtd3Je2zn6hGJqk3xDDMcxaCOK-DI_poyq_u9-b_O_zZ4FXbVVQsRtSlziUPsrmo-4-quYj737o4-FRpL__8S9SP4vCOAu2PwyB6AC3MVB85sGRCOzAL5dYMbvcJ45BUL4yJSrc1tENEA26b89Og-_2hRL9JZvNRlqMIOs8mYvti1Zn7eBlRCbEMr76y2Wxfa72IHHPL88wELNBP2DFgcTN9KfevkzBAeI2QSn0Q212uggGgPMDkO1D_6maa91h6BxyGUeRrFGZMly9xQd242he01SpNHkuMegZ5pG9aJ2FHScTzSY7YCMLtoqBtC5uuZ27mEoGzW3SBZYnZaQvaUokma8YapXum1UMAysitDY584RzdsZIxvIxUEkbZbEe4mHVCy0ZX0IJL-taoBhHj-RsBk6L4xg2l0SungaotAA6aqJsKTPEO5vIXv4hEA3UFEdA2CY2qNTDkdNVUdKwhI-DwhdNI-0c11hrOywSyBA_Ge0EjAPeHWB2M_xqTsPpHmHcH2BjZd3WTlCker5GBQTrYlhdVt0qhVrrS03hHHjSxPyUogibDdbkWts6ivmywsiPQ6Lz2tXaWROcljMzmTi7Fy3IWsK2wqkwQw599xxvxW-Ax9TkWvRiiD070td7G-lIkrmavwsOIxW7ev4rsTYeySK47iaO_iFde7fOf__T31xLcD8hcW3AT2j72ZV4R1BOLm9IrupJb6C01dNV2r5RXhLWCB_HnKQNmTMTG_S02Cqchqx8KZg_cFF3o5Q69XNAFZ4C44xs-xSn1_6BEZ7fHLJlybp04re-K52kg2TsPdUyV1pVXF8shwDD0imVQxoyBfMJ8Z6xxv9rHkLArpG3idv6VffrhIPfEAT6BhLUOrjNGna_kk1kO4RyoJdl-sCj9OweJ5J9Gzid3Dy93_KN6zlvAn5rVjxd4epK5IGv8RZNO2hzCxlKHPH-fpv88qiKBdcIyfEQgETBhcV1nZ7EYICJxT27BJw8aDUiPd6uRp0nCaxzn1NSULyy0oX8W1UMVqkZDJx4do9k1ju-sqfup1c_SWlFa_ud5PTvPPPrMgjXURB4yUW2tLWesujqx35m4v2DXeKnCGz3fFaPD-l1iC6jetSPTN4qSZzdnpuXO5L29hS_kgeDl1q-Hp2kM47mkA_0ceEl71nxB9mga31TPUoVZ7TyAIZNMnMXX23ybJvsYWk2zs70RsBmTfgMTpsTJZdyZS3N9tVLzzmYH7NOcvmG7q9ChU5jQaXmefPqhz0h3h-7BtQm_9TQg1DIoihGS3U4Co73s-k0ehTXrXBtmd1weLhh4HG313Yai1HOl4BRHsM12V3zSqBnPWWXtCh9fZcLqW60qiDk2-dGauuo4-YE5c5rxvDYnJgYUG65NS7-FlxnZaE2EhltKcYbjwZPkvXOwNasG5lA76LyPF0Qs4FP3ZIvR4mhHlMXzWdjUBNp93J6BG5SZqMkNsPb0Fu3PGX911zm_PH9c3xff2-J8-dwkUbDU9eRUoZnk8aiQnM9Ww2Pnw3hec_C56jj8WWIPmUsR9IU-dFcSso8q6Ql8vPB_V-OAJ76mR_XU25MhBke7JV-fdbbofjXfwAYOFgP"
+      },
+      {
+        "title": "Apple 15\u2032\u2032 MacBook Air with M3 chip",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQuI79IjyoxKNcf_QCLD5ApGUEdxIlrOgiE4DB1RkSZ3DC9Vs9Fi2UKMUXg6nA25w1jJr8yoHb5-u9J44IqZTqTJ8Eje-MCiTLBnwky8CLm1ZphURpFL-TO6Q",
+        "price": "\u20b91,34,900",
+        "extracted_price": 134900,
+        "reviews": 1000,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3Z8L53icdZXJzrPIFYaj5Aoi5Rb-1Se3iqKYsmM2NoOZDRvEDAYMNrYZlNvIDXx_d0udRaR0oqxzG92LXEtwd28jUVTpvIf3PKqqI_77uz9-5vW_Swbfx2NU6wcZByfx9NiWgfnDcO-zZ_qos39hAEGAEzQCJCJwCAgaoB_S-BG3ffmWEQUZhOM4okgSowmGQtSPVR5nbX3NjaLI70Kf_ppHAYzEaRwjthkCANHf6i4u8990SNEMpBgSMhBi-FaIgl_v2fgTOvHR9t1mDmiGoUmENh3g-F9OliFE_0f87vbM78vfuzhN-r75iOv7R4e-K4et0j8xHEMbBEMwiEGQIWkK-9rV2Y8ERSISEhRiMBpCagP4Orwen1X57fPZ5v-YPnhWMRVekWyfaGJf_Czbz_r6WbWf-fX7Ph5eRfrz7_8k9pPAjxNvusPgCRZwZG2J99WQyIx3xjJfF7Mxg5KTQG_RWg1abRaGXiuEl9A2JMv3XMlOXIZwPK53ZXPSPX01Vy_w3BL4DealrcSlzSx6mCSZvqX67mEJ8fCZNz2yZF1xhPSRXoc5vGYwcdtDgqWT2VncGUq2BzDCkoljCNtrKmSk4VerBcXlvOqedeZUp0NrIoS-gwXAkz1Sc9rJ7lohaA6KiUlOLB1U18suLu6iBIZog4VOm0Fv1Z-eiIUZ2Ehbi3NF6WGBtkkxZdkYZgdmF9MJSV9KF01WoNVkbtgRU9rpguZUXOKEKMTLKcDdRwabKWzCMbWxfX7tH6rLTI4YWgEWNhkYFPc88BYwoepxi-Eexm0fccdjVw_0yPAkLHTnMTxXe0MKK6uZJw1KRNxYQeJnYGMnE7l9upAm4vaw5FJ40GCoueKwaOL8zMTtNDralmDVaKCqUnjoXLEtrDOLdIl9pHgo6a10kOsDZ-31xfBDO5OJcwBE4AkVl4nSNeuwxZBYoK0tnncZ4fAY9-083oufACsRD9ugXqhyhh1fhOOVLNIoopo9EcLyqA3TnzGKwRCNQwqQDPV9ut3dOv_5D3-1Dd7-ggvbBfyCcx-2yFr8PrJZTbQVR3wLpalEN5F7q6zIbxE2jhnxMGTWhO3w2aAr_zFk5bKX2DMTXu_Evk7dHBCFs4dxhro-ldJb_5JwaXp7yIYhq2LEcq4tRuJZ1E6OYuibrSJsL5rBAUWTKZFDElIF9QVnHW2L_woPIaC3yBvivs3KaVsw8BsMw7-BGLENZreF7V_MHqgbfNlTyzJ9SaM4X18Rot8AUWTn6fOe72zHehuwnF6xZCVVNyz33ANrkKSF7-4-RQijdHreH24ZKELBtHwSnD2Q7KXCYK5XNYnBABODma8JiBxotAI53m9anScJrHOX2aegWLLShuy7quBtpSYwMMLFDlDWW-7-RDyjpX-IaUUeTkfR6t95-i_bwN9GnmdFGzdFzphlwVaDfqLi04te41kApn25KMFr666wGZVADai82ydxdp93iz0ik4viJXlR0lrLt8BKrlqgD_lABisrOnPFnmWNrNVd9SoVKSP3L6CZiJqu8c1EF1Onz2u7s466MwI6a_3Zi3YRIZdyZawtt_TiPHnTa1IRk-_I_sZXeDQWRKpfdks_nDDh-Tq2oNbZ-YC_sD0qimI0FIsh4Pi86FarhnHd8beOOg7nl-17DnNfuMdYjHK-etT-NdyS4y2veHJSU3pNi9JVjzmfqlqn8HzOzTuxq8MrMyV4bi2TBIM2omJA2CWnNS4HbtN-JXYiCjmCcsZAYxGqj5pkTKqW8eQxLC-PBqd2cFYNuQlEing9ruF00QYlEY-L1ePgLmYmnsS6fx96456ntLtMZc4G78NxXfXdEpcPfxVHzVG2kRKaYyJtVaAuuKvmsJPGb93uz6MqjYsmuIS2BkgX2FFfS0K_KMgQ2Ols_5bDg1m9sGNy9caEn-DZ3Oy3Z_s7FP_5HwezWWc"
+      },
+      {
+        "title": "Apple MacBook Neo",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQux5vVd7OPYq2hIKje2X0eOlAvGuIaur6Q0w4M54TKfezjNoNgw4uKE21Yx88qbnl6GtfA3N6g4YOtSNjjOpLaf2Ckoo_mC8C-_z6eL_jYjP4SDsZ8vuZPHw",
+        "price": "\u20b989,900",
+        "extracted_price": 89900,
+        "reviews": 6000,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=coy3E3icbVVJruvGFQ2SFQTIFv7oQUaxim1mFHuJjdiLnAjsSYmdSEqkiGwjG3jfNuAMAsQIMs427EHWEurHw6BanHNx7q2qe1H_-d0fP7PqXwWD5Gi8VPpBQuAknKZtG5g_9UOXPpKpSv-JARwCRNA4IHECQUDQAP8piaao7oo3TYINwAgKZ0gKwygMJ4mfyyxK66rNjDzPBr5L3nYQRxiBMzgDGYykIcQI7G9VExXZbzyNEEYhCmMYgNOAoGiEfx3S8Rd44i4kokgGEgSkGJyAG0uSfzlZBn_5_9wP90c2vP7eREncdbePqBo-GvyHov_mh4IYCWmaITACMVuDEH1tqvRngiJxcosNbSdFm3cafO2f02dZfP941Nk_5g-OVUyFU0TbJ26RL3wW9WfVfpb1Z9b-2EX9M09-_f2fhG7muXHmTLfvPd4CjtzjAbRWrQ0lx_NOmZBKumSF2tmyXbjstfrgnbGDaWO3Jbx6nH4Wn_ZqKbbnTqGs30N4WHyXUDU57M5rKkayKPtSX5supsaNdfBkC_hej7tuGYRtHZqrV6mOOftNjcVijzJfL-0b_nIcBYUN0Xj84RaJIm-3oZLeGMVDhykC4llD-2OCxDmsD7whlbcUlk0iMU2ALCWUaBALZZ5IyqSDCYYo1cK2bLJz2UbrIdTq_mpJPamt9cu7HRq33tsxnATLxrqgKSMPpHp0C-VwFSe7oScNHKTQCSX_Klr6rXdTrFzN2rs7Qq-6q9hnUi26rjdYYohiAQM-f-hScHAsqTa0tpwTGHYWINTU622bw04mFIHt1E7QlleL11cHTGf1HHrRre9idHtF8p5MUZn7Yq-5qIy0WsdTYQRBLappI151txwtTICOUJ6Cm2aLsLxpoCwTuJ1FqHPrzOK6yE4JCkW9Fg9Sddhbsv4y_NCNr_vBaxY1br1BB7WgtxqWSiIXXEsuxeraEmvr-2Uc8l8AKxKTbZDDhKx2vpxO9_FpUB3qHE-TEL7WRPFnjGIwnEaQAiRD_5hsyVtlv_7hr7bB2V8QvyXgF7T_sAXW4uSLzWqCrTjCmyhM5XIX9m-WFbgNYaOIEQ59as3YDi0GXfpTnxYvWWTPTNgOhFwlbgaI3JFhlOJNl4jJvXuKWwK8NSTDkFThwu5dW7gIZ0E7OYqhb7IKv000gwBFkwmRQRJSOfUFsY624f8LHkJAb8g7iGFbldO2YeB3GIa-20p-G8xug-1vYhPe9L7kqUWRPMVRWNrnBaffAVwudpY8hmxnO9ZbgN3rJUuWYnnHMs89sAZJWmg3-BTBj-LpMUxuESh8ztRcHJw9EMtibjBtq8YR6GFsMEsbg4sDjZonx-GuVVkcwypzGTkB-SstbMi-vfLe5moGPcNf7QBPO8uVT8Tj8uomISnJw-koWN3bTv92Ddx95DhWsJEp7I1F4m016GYqOj3pNVp4YNrXqxI8hdc5vI1KoAZU1shxlA7L7mWPuLm_RK_4SYlrJd0DK261QO-zngxWVnCWkj1LGlmpu_JZKGJKyk-gmTg1t9HdxK-mTp_XemcddWcEdFr7i3fZXQipkEpjrfevTlhmb37OKs5kO7K7cyW6jDmR6Nfdq-tPGP94HmtQ6exyQE9MxvM8Hw3FYgg4Pq66VathVDXcvaGO_flp-57DDK_9NOajlK0eJT_7e3y8ZyVHzmpCr0leuOox4xJVaxSOy_bLTmiqsGXmGGXWaxZhUF-oCBB2sddu7h7cZ3kldgIe7gnKGQONxfHqqInGrGopRx7D4jrdELWDi2pIt0CgiOfUhvNV65VYOL6sDoFBSE0UR7o_9J0xZAntvuYiY4P347iu-i6J64e_CqPmKNtICM0xcW1VoM67q-aws8Ytj9RfRlUcXxrvEtoa4DrPjvpaEPpVwQ2enc_2bzYcWNQrO24VPsbcDM_mJr_17XfI__1fJ_FbzA"
+      },
+      {
+        "title": "MacBook Air (34.46cm - 13\u201d)-Sky Blue",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQxJtE5yE-MT_GhBKALahMTfe0UO8BQRUVck_P0aWScrbLOmXyyiSapumm4j8_gixbeoxXXkO3TzrIBfFowbOni6c5B_kI-tczYJF8vCZEsQYKYFkdewUGs",
+        "price": "\u20b91,19,899",
+        "extracted_price": 119899,
+        "reviews": 3000,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rOXC6nicbVRLzqvIGU2UFWQRd3TlVlHFMzOeNtiAeRsmFm8wGDDYvNTbyAb-291SZ9BSd6KMs41uRVlL8O0MI9VXlL7z6ZyPqjr1nz_8-SMt_5kz6BAO11JT9gicxfNzW_rGj13fJq_4WSb_wAAOASJoHJA4gSAgaID_GIfPsG7zMvk7RiJAMiSgCJKhKAbQAPxSpGFSl02qZ1naC228lZEEgxCGb1wUiXAKhwj_W3kP8_R3mIAMzTAYTSMGgyQkMIz60ifDr_DMX2kSQIahIYI0hlMU2BS_PZu6cP3_2PePV9ovP93DOGrb6nNY9p_v-Pd591UG0QhHBElDDNsCp2jmy71MfiEoEifhpo4gscGQBF-68flR5N-9XnX68_SZZ2VD5mXJ8ogq9MSPvP4om4-i_kibH9qwG7P4tz_-W3zJPP-QecPpOlcwgeV2Rgy1IADSzXcK3QAYdCDAXLfrXYGrTNS9HA_r7dq1HUy5xSXWBbVWmHcX8-5BHzQioUmdbsLC1A5d5zVdGHgO8lxz9W_aLRYZw1jVVb1rRuphlQ0KmF6CmwPco1rVgsVjLxXjjta-hYmrmHatCamtzqETrBpUXAPWlSXIs3ZTRsd7Qqvu1q3H0HfwJVo1z_BqXHcA4dQM1C-J6d_MIHCT3hGU0W5kzFyLKhAk0ZG0xXUZXGu6JtgTS9QUjYUSz3ITWbd94NXu0RbNIjl0miaoeCJx-6RiskCqsNQhNBXJc9QED6dxMc3T9OhSwUDiQFolo3ZRXLdmQquuRUtUePsuCYFQL37jPH1bccK6duKK8MyKBmmjLIY3H1VJtCRYVCooihgqd0esM_PC4prEPmMUSFotKftS4cyDtuheYCVIcaJ7LRtNZ-p2tf2HcvRh0WpNsdhA2m_63Hfz0Ge_AlYinpZOKQ6JehWXNz84ztSFnLO7dmzSB9n0F4xiMJxGkNpswfwQb3ewTH_7018tnbc-IWG7SJ8Q99kSWZM_XC1WFS3ZFt9AbsjXh8i9UVbktwwbhoyodIk5YTs063ThPbskXw4Se2GCpicOZeykgMjsAwwT_N7GUvxoRwlJ05tjr-v7k3hlOccSr-JFVM-2rGsbrSxsE80gQNFkTKSb26iM-oRYW93yvzcPIaC3zLuJfvvK523BwG8wDH0DMWILZrelra9kT_zeeXv3lOfxKA3i3IxXnH43cL1aafzq051lm28CltMKliyk4oGlrqOwOkmaaNd7FCEM0vnVP53cl4WMqfnIv7ggOkiZzjTNKQpBByOdmZsIXG2o1wI59A-1TKMIlqnDHGKQLUluQfatKrib1AQ6RrhZPp60pnM4E6_r0j7FuCCV81E023ed9nUb-MfA86xoIUPk9HkvWCe_najwPNJrOAvAsG432R_F5RJUg-yffCq9H6Iw6efdYg24wV3DJRopaS33D9-MGtXXurQj_ZUV7blgL3uVLE-7YsxlKSEPI1ANnJqa8GHgN0OjL2u9M4-aPQA6qb3Zve6uxD7fF_pac0srzpM7jdMJZ9Id2T74Al2HjIi1225puzMmvMZjDUqNnRU0Ygc8y7JBl02GgMPrppn1KQjLO_-4U8fuMlqeazP9wj2HbNinq0sdxu4RHR9pwZPTKabXOMud0zHl45N6396wlJt34r0MGmaKUGoukwT9-kqFgLByTq0cDjymw0rsRDzgCMoefJXF8XLznT6d1IQnj0F-e1aI2sH5pO8rX6SI8dkE003t5Eg8LmaLQC8mBopCzeu7Vu_TmHaWKU9Z_304jnN6W-L22VvFQbXlLWJCtQ1cXWWoCc6q2uyk8vMr8ebhJA2LKjiEuvq4JrCDtuaEdpNxXWCni_W_Gh7Mpxs7RI07RPwEL8ZGv43tlc_-9V92yUcQ"
+      },
+      {
+        "title": "APPLE MacBook Air M1 8 GB 256 GB SSD Mac OS Big Sur MGN63HN A 13 3 inch Space Grey 1 29 kg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9HrfC6Wf5OI5oYAGvRrdGRGLIZxKQa_tHk4QZTWvaGJGC45tsdNv8K9l4aQxON3DcNLe7CyQz_Irhc74Bc_817gIoG_bAIE3VMjmNKOadocBgSCkG8Ra8",
+        "price": "\u20b984,599",
+        "extracted_price": 84599,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HAyq5HicLVTLzqvIEU6UJ8hDnNUvj5qG5pIdl8ZgGzBXAxuLm7kYAwZsMO-RffSfmZFmFiNlMso6r5FZ5FmCTyJ1dZfqK31V6rr85w9__szKf-YcqUTDudR3WxIc8XFc1cD8qevb9JGMZfobASgISMRSgKYQCQFiAfVTEo1R3eZl-g-CJgHN0YBBNMcwHGAB-LXIorQum8y4XLJeapO3G2ARxSJAEyQgEAIch34ub1GefYN_IyiWZlhAsizgiJWHpgn6a58Of_vh_sj61y-3KInb9voRlf3Hjfoh796ciGRJikQ0CwliFYphua-3Mv0VMTRFQ5YlSYhWGNLga_ccP4v8-8ejzv4-fYi8aqqiKtsndI1O-DOvP8vms6g_s-bHNuqel-T3P1a4nURxmATT7TpPsoCDARX73dWHKDAbgQ4aQQ9P3OBWtRzaxODeCGj74WDCUT9hWUjw2LkwlINqJzuAEAJSkLWliJwqdYOlUHW_UDOXXUxPqO0Fz9Z19_AaXYivcp1VOQxxt9edcGdBrzac8KptAZF6umK78_Gk8KO7raug7jxD4me9rtWQuC4pLOYEeKMFqdG7cicfEISx5qh5te3dwpOznaBzQ7NLYmTJ9d5aCiOWPCm75ihTdDoCs224BYgba2s7LmWcOs-VNOg0AnIkc8wUucZF2oaSrga-Xoa1sPOBNxmSZR58HVpOaNlWW5qutSRVfXN9WXYhgCkoutN1VLKrFwTXuY23c6O5cxtiQnPN7-ehv_wb8DIabYPZuTTZa5S69prrTl0kuJtzx6d9eJn-QjDc2ikkZNaW435M1o4os9__9FfbEO0vpLSW9QspfNiYt0TlbPMatlUHv4HcVM93LLxRHourhY8iDu-61JqIDTkbbHEauzR_KTLvc2HTI6VM3Aygi6PAKKVubSIn9_Ypk_L05tgaxvaAz7zg2viMfawdHdXQV1pVWi-WIwHD0gnKIA2ZC_OF5B1ttf8veQgBu1reSfTrqx5XhYPfEQT5HSTQKtxmNdvfyEbq1p223iHPk6c84Ll5nin2ncD5bGfJo882tmO9CXhBL3i6kIs7kXnujjdo2iI3_YlB0iAfH_3o5oEqXbhajAPfA7EiXwyuaQ5xBDoYG9zcxODsQKOW6KG_a2UWx7DMXE5JwOWV5jbk31Elbw01gY6TKjug0tZylSN6nF_tiJOC3h332Grffvq3bxDvgyjy2CZNLBjzVrIPQTsx0fHJLtEsAdOuKjV44pcfXgc1OARMdlPiKO3nzcseKFM4R6_4ychLub0HVtxogd5lHR0sPHbmgve3Gl0eNsUzV-WUVp5AMylmaqK7SVWmzvpLvbHW8RkAm9an2TtvzmibbwtjqYVXi-fJm57TgeKyDd3exYI8DxeU6NXm1XZHQno89zUodX7ekU9CoS6Xy2CoFofg8Kh0qz6EUXkT7zdm3_lP--Q5XP8SxuEybLPFY5Rnd4_396wQ6emQsEtyyd3DPhOTg3ZTRTET5g2-lWHDTTGZWa9JhkF9ZiKA7FzQrq4A7pOyoA2mQgExzhBoPEWVe002poOWivQ-zKvxSjIbOB-M7TXADHqOTThVWqfGeP-yWhL0ODXJONJPfdcafZaw7mvKMz54F8d1D--RqD5OCx40R10lQZpjUtqiQl1yF83hJ02cH-lpHg7y8NIkF2lLQOkSP-hLjvRKpdadM_n2_31EMB8qfogbb4jFCfrmSr-edede_vVfoYIVIg"
+      },
+      {
+        "title": "Apple MacBook Air - Core i7 1.7 GHz - HD Graphics 5000 - 8 GB RAM - 256 GB SSD - 13.3\" 1440 x 900 - Wi-Fi 5 - kbd: German - CTO",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRI3OovY8PjYYsZi35un5rF1RKWvfVxdQqTzkTkl_u0E17QlkwzggNWdaaX8B2aomoEXSIDNEreh-i14yMVKMxsc-zIQsLNos-O_uomw-24z18G-vvmD0yn",
+        "price": "\u20b974,400",
+        "extracted_price": 74400,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LDfXznicLVRJzuvGEU6QE-QQb_VDRqubY3YcmoPEQRxFciNwEgdRFEVKJMV7ZB_8zzZgLwzECbLONeJFzhLqOUAPharqrwpfVfV___Dnz7z6V8EiJR5OlbGTETjgw2MVQ-unrr9lz_RRZf_cAgICRDIEoAgSQUAygPgpjR9xcyveZhJCBkGagQCyBAAIUOjXMo-zpmpz83zOe_GWVtk_KAIwzJZiaEAQ1BYhhkU_V9e4yH83EwzB0oCiaQpAmmKZ7Zb-2mfD3364P_P-9cs1TpPb7fIRV_3Hlfih6NJvoUlIQgQAxUCaZhHNsvDrtcp-JWmKoCDDIARJRFKQAl-78fFZFt8_n03-9-lD4FRLFVTJOZKX-Ig_i-azaj_L5jNvf7zF3XhOf_vjV9yngjCmvOV1nS_awFVWRsTGiLzOjC5SfRTt0QzKOIBRn0v8IfVtrHnG6pNVqZvtbCVCFugeiZhF_gU_fDDL7jVz8yY7O8fdPloKGMMZu3X4cFxjznyjC1veimBWGa7hpngH3aNv2tt0yRpjnxwfLw9ayIBl6bcpioNSdrxZTRZvShtpWt9KYcMvHir5DGdKrPidczUOGdShITb3zDOW2MMwau0hqo0pBuTgtLZmNEbsLdkrl1XgYmPJfR3ER7-zRdvP5ZKyUWTEV6nLFDzHcri4km0mga0lQUmmUodyhb_krdRqx9Jb-Xh6_gWleA5jUNZmkN3DOqP8utGSWQ1i2VocWVrCa2Q5PiulYgE8YbtkFw963iVWLxJOkUpGjfRy0e6SyMbVUKRh5YMPwDwHoAGm1zy8q7FfOf1-HvrzfwAnkQ_HpPTgxs2JsLNOQX_MzYCoTTpYmeIS7i9bmt0S7z4FNAA_pmsvVflvf_qrYwrOFySu_fAF8R8O5mxBOTmcjh3VxW9DYamnO-bfVg4Lq4aLYxbvusyeths0m0x5fHRZ8VIkLmCjtieVKvVyQJ5dBcYZcb2lUnq_jRKSpjeGbJqyhk8c7zn4hAOsH1zVNFZYVVyPdSYAzVApmUMK0mf6C-JcfdX_njyEgFk17yT69VYPq8DC77Zb9B3ckutmN6va-Qb2IK7dUfa1okhHacBzO54I5p3A6eTk6bPPN45rvwE43ig5qpTK-zb3vR1nUmu9N_2RJsVBOjz7h1eEqnhmGyEJAx8kinQ22bbVkhh0MDHZuU3AyYVmI1JDf9erPElglXuskoLzKyscyL2jiv4aagIdK9ZOSGQ321MO5PP0uj1wWlK7wx7bt7ef8Y0G4T4IAocdZGHenGXR0cLbRMeHkVniWQSWU9dqOOJXEF0GNdRCOr8qSZz18-blDITFn-JXMtLSUsn30E5aPTS6vKPChcPuXHKBrFOVtinHQpUyShmBbhH01MZ3i6gtgwmWZmPvDXcATNYcZ_-0OZFyIZfm0vCvG54nfxonjWDzDXW7CyU6DWcyNerN69YdtuJz3DegMrh5h8atQpzP58FUbZaEw7M27EaL4uoq3K_0vgtG5-i7bP_iH8N5kPPFp5Wxuyf7e14K1KSlzJKeC0_b50Kq6VdVEHJ-3uBrFbXslKDcfk0SDJsTvY6xU_D6xePBfVIWcoOJiCdpdwh1jiCqvS6Zk6ZnArWPivpxQfQGzpopX0JMk-OjjaZa79QE71_2DYEeZxZKYuPYdzezz1PGe01FzoXv4nie9h6J-uO44EF31XWnpO5ahL6o6wfjLbrLTbowP7PjPGjS8NJFj9SXkDBEbjCWgjRqlTBFbgqc__sIYNZqbkhaf0iECQbWCr-u9bM-__t_hlEsYQ"
+      },
+      {
+        "title": "Apple 13.3\" MacBook Air with Retina Display Early 2020 Gold",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkOj9kTtbwfTVs8AdD-my4C2_a_nLMAivLKehuWw7AngsztWgFPPSMbCdaCOUYuq6YRY-49SbkXaVvWzM4HyOHmo4PgmKunaVG6MCND51MrAoM6nu19ZGj",
+        "price": "\u20b91,43,093",
+        "extracted_price": 143093,
+        "reviews": 3000,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e25csnicbVXJzqvIFU6UJ8hD3NUvt4qCYsgOQ4GxDZh52FhMBmwmAwZs5TXyAv_tbqmziJROlHVeo3uR58gy-CbLSDUcne_Ud74ajupfv_n9Z1b-I-fIXTScS20vk-CET-NqBsZPXd-mj2Qs078TgIKARCwFaAqRECAWUD8l0RhVbf6GCZajaQ5xANCAZRmaoqifiyxKq7LJ9Msl68U2KdO_QQg4lkUQQhax3ErKMX8u6yjPvsE_UzSgGIqiabhOxMrCfe3T4Rd4Es6Q4BDJsYCkWZaCEFE0-8eTqYvn_4_9cH9k_fMvdZTEbXv7iMr-o6Z-yLu3CEQAErD0uh9m1bsugPTXes2O1oQ0ZFmShIhENKTB124aP4v8-8ejyv46fwi8YiiCIlkeukUe_syrz7L5LKrPrPmxjbrpkvz623_jKRGEPhEMp-tc0QS2fKPil-vaN6lJZGSFsktnrhTo3jIm11RRIZ612iHcpsKeVxwMYNquG5aey-mqg5zUc_vAGxfPdv3oRsgm7IJE5shYzkmz0vzYa5Hph07ocUcTpFXoVkEkulJ6I3SnSohIrnSTqFrbz0nbKSoPp0-jMutol6IYLCB29oVWL_fUw8Ai9jjxiNqBmhXLo3O0QzEgNDPxXBx5xZI4IenKqNN3xZzJAeGIrmHJBOHDTk8b9-rVLEi9sLaBdLCvoRze0FW7jZPdSHvVT-8J6Cxv57xCbA6RL_kONm-qX2CNDE_qdVtZYN3XjbBdYj-beHimXle6ZCireCBCD8yeaHbrekK9pY2GAdKxOUauhs2qeySvUDVfbmW4Dml4S5ng0I9KIopLgtBEM7Bg1Wt4aSJRAs7LsCRY3FRQFAnc1w6uLqbPU5rEjwkZSlol7eVyvzV32lP3QjvzzNYhJVK3FehUGrDkrg2IcA7r2xjdCsKotuT3y9BffgG8hEZLp7CQzA_5KFQxaFBOhFo8GV5gPu0s_wPBcATFkpABDCB-TNb3WWa__u5Pli5YX0hxfWRfyO2HhXlT2J0tXsWWYuM3kBvK-Y63b5THwurho4jD-y41Z2JDLjpbeGOX5s-dxPtc2PRoVyZOBtDF3sEopeo2kZJ7O0mkNL85ZF2Xj_jMbx0Ln7GP1ZOt6NpKq4jrwHIkYFg6QRmkIXNhvpC8ra7-_4pf65hdPW8R_Torp9Xg4HcEQX4HCbR2brO6rW9kI1V3nuwe8zyZpGG9gelMsW8B57OVJY8-21i2-Sbgt1rB04VU3InMdfa8TtMmuek9BomDdHr0o5MHinjhKiEOfBfEO-mic01zjCPQwVjnliYGZxvqlUgP_V0tsziGZeZwuwRcnmluQf6dVXTXVDPoOPFqBVTams7uhB7nZzvipKD3pwM223ec9u0YhPsgCDy2SANv9UUWrWPQzkx0mthXtIjAsK5XJZjw0w9vgxIcAyard3GU9svmaQ2UsT1Hz3hipFcp3wMzbtRA67KODl48tpeC92WVLo-bYsoVKaV3E1ANipmb6G5QV0Nj_Ve1MQ-aPQA2rbzFPW_OSM7lQn9V22eLl9mdp_lIcdmGbu9CQZ6HC0q06-bZdidCfEyHCpQav-zJidhRl8tl0BWTQ3B4XDWzOoZRWQv3mjl0_mR5rs31z-04XAY5e7nMburu8eGeFQI9HxP2lVxy53jIhOSo1oogZNtlg-sybLg5JjPzOUswqM5MBJCVb9WbswX3efdCG0yFW8TYQ6DyFFUeVEmfj2oq0Icwv443ktnA5ajLtwAzaBqbcL6qnRLjw9NsSdDj1CDjSPP6rtX7LGGd55xnfPC-HMc5vkvi-uG98KDaytoTpNoGpb4UqInOS7X5WRWWR-otw1EanqroIPUVUJrID9orR9pVoXSRn33rfzECWI5Xfogbd4iFGfrGSr-29Qe4_PM_FhZQ6w"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Capacity",
+        "items": [
+          {
+            "name": "Any Capacity",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RPLnnXicbVVJzuu4EQ6SE-QQb_XgBjVL2Wm0JEuUNVGWNoYma7AmW7Y1INfIBf7X3UD3ooF0B7nL60XOEvkluwRgkYX6Pn5VIFngv_7w54-8-mfBEWo8niuo7wlwlI-PzQ3tn4Z7nz3TR5X9AwMkDgiKJQFNUgQOKBaQP6XxI276osp-w2gC0BwNGIrmGIYDLAC_lnmcNVWXW5dLfpf69K1CsCwOWI6hKJZiAMliOPlz1cZF_g3_bdsNGIKjyY1IYSxHU-yXezZ-xY_imSJYgiQomsUxbDOSYbm_Hh1LOv9_7IfbM78vv7RxmvT99XNc3T-35A_F8C3N_9K_tFX2K8XQJI2zLEHg1AbjNPgyvB4fZfH989nkf58-i7xma6KmuAF1jQP5o2g-qu6jbD7y7sc-Hl6X9Pc_AvkmS-JTE21_GJDkAG8_GL7cXCLCUXxFmzwAvQR3XN_vV_Ok0PZVpuxGxzxC0ZLVnyDIHLtFc-A7q4Ous9vOFVT0ykLCap9QGwOnRf74SNsSOmCIYR0JXo0UeMWI4Opg7j4zbEyYHbzsE_9BxQ08ZnjWIwSPSeevfh0ZllQ65qqjuMu0DNcNJM-xEcxErma0F1BaWmF-FmSq2ZaD7elXWOue38DGPZWEX5dhuKIwUhDptJCyPWgh4D8SYAO7i_rE093kCo92B3uISsnEdRtKjm638y0iGjILlFvSKBNqBiK5Ur3tYnrWlmSulqTXyo8Y58ywQ7S_6lVS62t6Uu6Jj4WWGtWxj1yzK3t7FeiwRhRUIAiu2SNHSuTL2QEpwjPDYBC0WIDwZvbx0o68EPP2M0KYE8VbrUGgoxBwXtKUs4-0Jbg2pKkOl-TkGEYQjS4hCGZTLjEaYrODd7TaWKIWi98IR8fLOrmMOsuDWniCl9inDs5qTr6M7EzhBq9pnH2lC44KFyuIPF8R1CzgHh4RlV4AjdhTKvPa3OJauRnI0ZA8CN_P4_3yFfAK9XAtOluK0hOVV-ae4zq71a4zn_fu4UYWxV8whsNIlgAkwWHsj-n2rqv89z_9zbVE9xMhbY_zEyF8dmXeEdWzy5uyq3nyGyhs7XyThTfKy-IW4eOYk_UhcyZsR8wWWwaPISsWVeFPXNTdKbVK_RxQF0_F44xs-1RJb_1LIZTprbG3rL0hn3nBd-WzfJLNo6dZcJPVpG1iOQIwLJ1SOU7jzIX5RPCeucX_Uzy-tf8WeRdx31btuDkc_h2GEd_hGLUZt9vC7jexB9kOwR4ZRZG-lFGeu9eZZN8FnM9unj7v-c71nLcAL8CSp0ulvGE58nXeommH2N0DhpJG5fi8P_wi1KQL14hJeEIgUZWLxXWdkcRgwBOLm7sEnD3caiR6vN_MKk8SvMp9Tk3BZckKF-ffWSW0pZrAwEm1G5JZ7_jqkXqel_4hpyWtHw-y07958NsxiLdRFHnZJWxZsOa95BphPzHx8cWu8SwB261rLXzJyym6jlpohEzeqkmc3efd4o6kLZzjJXkxylrtb6GTdGYIh3ygw5WXvbnkT3uTroxd-So0JaPVFzBtkpm6-GaTtQ3Z09rsnAP0RsBmTTCj8-5M7Yt9aa2NsPTyPKHpNRkkl-_o_iaWxHm8UCmsd0s_HDHp-To0oIL8rBMvTCUvl8toaQ5H4eOzhk5jRHHVireWOQynlxsgj7svwmO8jPt8RYz6Gm7J4ZaXIj0ZKbuml8I3DrmYGmariWIuzDu5raKOmxIid5ZJwcPmzMSAcgvBvPoCuE3qSu1kMhIoxhtDkyfJ6mAq1mSYmUgfoqJ-XAlmh8-Gtb-GMkO9Hl001eagJfJhcXoC3OXMJpIYBveht-55yvrLVOR8-L4c3zfeLVF_DlZ5ND1ts5QyPZs0Vw2Hkr-aHj-Z4vzMgnk0lHExJZ8y15CEEj_CtaBgrZGWxE8n978cEcxGzY9Jh8ZEnPCTvclvY_s5Ll9JudQqoYWvZM9hadVrSdBck7bpYtV2t_aUU7yhI7fXTc9_moswJC3s_w1-y3le"
+          },
+          {
+            "name": "16gb, 1TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=QFk6_nicbVVJzuu4EQ6SE-QQb_XgBjVL2WkeLFHWbGljaLIGa7Rsa0CukQv8r7uB7kUD6Q5yl9eLnCXyS3YJwCIL9X38qkCywH_94c8fefXPgsGUeLpUUJMxcBJPj90NrZ-Ge58900eV_QMBOAowgsYBiRMYCgga4D-l8SNu-qLKfkNIDJAMCSiCZCiKATQAv5Z5nDVVl5vXa34X-vStgtE0CmiGIgiaoABOIyj-c9XGRf4N_23fDSiMIfGdSCA0QxL0l3s2fUVP_IXAaAzHCJJGEWQ3nKKZv55sU7j8f-yH8Znf11_aOE36_vY5ru6fW_yHYviW5n_pX9oq-5WgSJxEaRrDUGKHURJ8GV6Pj7L4_vls8r_Pn3lWtVRelZyAuMWB-FE0H1X3UTYfefdjHw-va_r7H4E4igL_VHnLGwZfsIErD7onNtcIsyVPUmcXQDdBbcfz-s04S6R1Ewmr0RAXk9Rk82YIMttq_SXw7M32b4vTLhWUtMr0uc06-20M7Nb3pkfaltAGQwzriHNrX4I3BAtuNuLImW4h3GKjZZ94DyJu4ClDs9734SnpvM2rI90UStvYND_uMjVDNd0Xl1gPFixXMtINCDWtEC8LMsVoy8FytRusNddrYOOcS8yryzDc_DCSfNxuIWG50PSB90iABawu6hNXc5IbPFkd7KFfCgaqWVCwNatdxghr8CyQxqSRZr8ZsORG9JaDaFlb4rlS4m4rPmKUMcLOJ71Nq5Ja29KzdE88JDSVqI493zG6src2jgxrn4ASBMEte-S-FHlidvQl7pkhMAhaJPDRZvHQ0orcEHHlxfcRO4r3WoNA80PAuElTLp6vrsGtwQ1luCZnW9eDaHIwjjOaco39ITY6ePc3C0mUYvUa7mS7WSeWUWe6UA3P8Bp7xNHejNkTfSuTmMFtGluuNM5W4GoGketJnJIFzMPFotINoB67UmXcmjGupVH3bdUXB-77ZbpfvwJWIh6OSWZrUbq89MqcS1xnY-3Yy0V2jiNeFH9BKAbBaQzgGIPQP6b7u67y3__0N8fknU-YsD_OTxj32RFZm1cuDmuIjuqKb6Cw1Msocm-UFfk9wsYxI2pDZs_IAVtMugweQ1asisSemai7E0qVejkgrq6Cxhne9qmUjv1LwqT5rSGbpqyLF5bzHPEinkXj5Kom3GVVYZ9oBgMUTaZEjpIodaU-Yaxr7PH_FI_u7b9H3kXc91U97Q6Dfocg2HcoQuzGHPaw803sgbdDIPt6UaQvaRKX7nXB6XcBl4uTp897fnBc-y3AcrBkyVIqRyT3PY01SdLGDveAIoRJOj3vD68IVeHKNHwSnn2QKNLVZLpOT2IwoInJLF0CLi5qNgI53UejypMErXKPUVJwXbPCQdl3VsHfU81gYITaCfGstz3lRDwva_8Q05LUTkfR7t88-O0Y-HHieVZ0MEvkzEUWHD3sZyo-vegtXgRgOXWthi9xPUe3SQ31kMpbJYmz-3JYnQm3uEu8Ji9K2ip5DO2kM0I45AMZbqzoLiV7lg2y0g_lq1CljFRewLBwau7i0cJrC9LnrTnYR-hOgM6aYPEvhwshF3Jpbg239uIy-_Nr1nEmP5D9yJfYZboSKawPaz-cEOH5OjagguyiYS9Ewa_X62SqNkOg07OGdqNHcdXyY0sdh_PLCXyXua_cY7pOcr75lPIaxuQ45iVPznpKb-m18PRjzqe60ao8n3PLQWyrqGPmBMvtdZbQsLlQMSCcgjNuHgfGWdmIg4hHHEG5U2iwOF4dDcmcdSPjyWNU1I8bRh3QRTflWyhSxOvRRXNtDGoiHle7x8BdzCwsiWFwH3rznqe0t85Fzobvy_E8_d0S9edgEyfDVXdLCcO1cGNTUSh4m-Gys8EvzyxYJl2aVkPwCGMLcSiwE9wKAtYqbgrsfHb-y-HBotfslHT-lPAzerZ2-X3sP8f1qyOWasW18JXIDJJWvZoEzS1pmy5WLGdvTzFFGzJyes1wvaexckPSwl4svYqXYZnKUh2fbeJY3BbYZpXOs0smq_8G5P2EGw"
+          },
+          {
+            "name": "16gb, 512GB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dw1PjHicbVVJzuu4EQ6SE-QQb_XgBjVL2Wm0JEuUNVGWNoYma7AmW7Y1INfIBf7X3UD3ooF0B7nL60XOEvkluwRgkYX6Pn5VIFngv_7w54-8-mfBEWo8niuo7wlwlI-PzQ3tn4Z7nz3TR5X9AwMkDgiKJQFNUgQOKBaQP6XxI276osp-w2gC0BwNGIrmGIYDLAC_lnmcNVWXW5dLfpf69K1CsCwOWI6hKJZiAMliOPlz1cZF_g3_bdsNGIKjyY1IYSxHU-yXezZ-xY_imSJYgiQomsUxbDOSYbm_Hh1LOv9_7IfbM78vv7RxmvT99XNc3T-35A_F8C3N_9K_tFX2K8XQJI2zLEHg1AbjNPgyvB4fZfH989nkf58-i7xma6KmuAF1jQP5o2g-qu6jbD7y7sc-Hl6X9Pc_AvkmS-JTE21_GJDkAG8_GL7cXCLCUXxFmzwAvQR3XN_vV_Ok0PZVpuxGxzxC0ZLVnyDIHLtFc-A7q4Ous9vOFVT0ykLCap9QGwOnRf74SNsSOmCIYR0JXo0UeMWI4Opg7j4zbEyYHbzsE_9BxQ08ZnjWIwSPSeevfh0ZllQ65qqjuMu0DNcNJM-xEcxErma0F1BaWmF-FmSq2ZaD7elXWOue38DGPZWEX5dhuKIwUhDptJCyPWgh4D8SYAO7i_rE093kCo92B3uISsnEdRtKjm638y0iGjILlFvSKBNqBiK5Ur3tYnrWlmSulqTXyo8Y58ywQ7S_6lVS62t6Uu6Jj4WWGtWxj1yzK3t7FeiwRhRUIAiu2SNHSuTL2QEpwjPDYBC0WIDwZvbx0o68EPP2M0KYE8VbrUGgoxBwXtKUs4-0Jbg2pKkOl-TkGEYQjS4hCGZTLjEaYrODd7TaWKIWi98IR8fLOrmMOsuDWniCl9inDs5qTr6M7EzhBq9pnH2lC44KFyuIPF8R1CzgHh4RlV4AjdhTKvPa3OJauRnI0ZA8CN_P4_3yFfAK9XAtOluK0hOVV-ae4zq71a4zn_fu4UYWxV8whsNIlgAkwWHsj-n2rqv89z_9zbVE9xMhbY_zEyF8dmXeEdWzy5uyq3nyGyhs7XyThTfKy-IW4eOYk_UhcyZsR8wWWwaPISsWVeFPXNTdKbVK_RxQF0_F44xs-1RJb_1LIZTprbG3rL0hn3nBd-WzfJLNo6dZcJPVpG1iOQIwLJ1SOU7jzIX5RPCeucX_Uzy-tf8WeRdx31btuDkc_h2GEd_hGLUZt9vC7jexB9kOwR4ZRZG-lFGeu9eZZN8FnM9unj7v-c71nLcAL8CSp0ulvGE58nXeommH2N0DhpJG5fi8P_wi1KQL14hJeEIgUZWLxXWdkcRgwBOLm7sEnD3caiR6vN_MKk8SvMp9Tk3BZckKF-ffWSW0pZrAwEm1G5JZ7_jqkXqel_4hpyWtHw-y07958NsxiLdRFHnZJWxZsOa95BphPzHx8cWu8SwB261rLXzJyym6jlpohEzeqkmc3efd4o6kLZzjJXkxylrtb6GTdGYIh3ygw5WXvbnkT3uTroxd-So0JaPVFzBtkpm6-GaTtQ3Z09rsnAP0RsBmTTCj8-5M7Yt9aa2NsPTyPKHpNRkkl-_o_iaWxHm8UCmsd0s_HDHp-To0oIL8rBMvTCUvl8toaQ5H4eOzhk5jRHHVireWOQynlxsgj7svwmO8jPt8RYz6Gm7J4ZaXIj0ZKbuml8I3DrmYGmariWIuzDu5raKOmxIid5ZJwcPmzMSAcgvBvPoCuE3qSu1kMhIoxhtDkyfJ6mAq1mSYmUgfoqJ-XAlmh8-Gtb-GMkO9Hl001eagJfJhcXoC3OXMJpIYBveht-55yvrLVOR8-L4c3zfeLVF_DlZ5ND1ts5QyPZs0Vw2Hkr-aHj-Z4vzMgnk0lHExJZ8y15CEEj_CtaBgrZGWxE8n978cEcxGzY9Jh8ZEnPCTvclvY_s5Ll-RXGqV0MJXsuewtOq1JGiuSdt0sWq7W3vKKd7Qkdvrpuc_zUUYkhb2cplW4h6W6V6p45NDHYpxhm1WGSKPmZ7ehcW_AXTehRI"
+          },
+          {
+            "name": "24gb, 1TB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RPLnnXicbVVJzuu4EQ6SE-QQb_XgBjVL2Wm0JEuUNVGWNoYma7AmW7Y1INfIBf7X3UD3ooF0B7nL60XOEvkluwRgkYX6Pn5VIFngv_7w54-8-mfBEWo8niuo7wlwlI-PzQ3tn4Z7nz3TR5X9AwMkDgiKJQFNUgQOKBaQP6XxI276osp-w2gC0BwNGIrmGIYDLAC_lnmcNVWXW5dLfpf69K1CsCwOWI6hKJZiAMliOPlz1cZF_g3_bdsNGIKjyY1IYSxHU-yXezZ-xY_imSJYgiQomsUxbDOSYbm_Hh1LOv9_7IfbM78vv7RxmvT99XNc3T-35A_F8C3N_9K_tFX2K8XQJI2zLEHg1AbjNPgyvB4fZfH989nkf58-i7xma6KmuAF1jQP5o2g-qu6jbD7y7sc-Hl6X9Pc_AvkmS-JTE21_GJDkAG8_GL7cXCLCUXxFmzwAvQR3XN_vV_Ok0PZVpuxGxzxC0ZLVnyDIHLtFc-A7q4Ous9vOFVT0ykLCap9QGwOnRf74SNsSOmCIYR0JXo0UeMWI4Opg7j4zbEyYHbzsE_9BxQ08ZnjWIwSPSeevfh0ZllQ65qqjuMu0DNcNJM-xEcxErma0F1BaWmF-FmSq2ZaD7elXWOue38DGPZWEX5dhuKIwUhDptJCyPWgh4D8SYAO7i_rE093kCo92B3uISsnEdRtKjm638y0iGjILlFvSKBNqBiK5Ur3tYnrWlmSulqTXyo8Y58ywQ7S_6lVS62t6Uu6Jj4WWGtWxj1yzK3t7FeiwRhRUIAiu2SNHSuTL2QEpwjPDYBC0WIDwZvbx0o68EPP2M0KYE8VbrUGgoxBwXtKUs4-0Jbg2pKkOl-TkGEYQjS4hCGZTLjEaYrODd7TaWKIWi98IR8fLOrmMOsuDWniCl9inDs5qTr6M7EzhBq9pnH2lC44KFyuIPF8R1CzgHh4RlV4AjdhTKvPa3OJauRnI0ZA8CN_P4_3yFfAK9XAtOluK0hOVV-ae4zq71a4zn_fu4UYWxV8whsNIlgAkwWHsj-n2rqv89z_9zbVE9xMhbY_zEyF8dmXeEdWzy5uyq3nyGyhs7XyThTfKy-IW4eOYk_UhcyZsR8wWWwaPISsWVeFPXNTdKbVK_RxQF0_F44xs-1RJb_1LIZTprbG3rL0hn3nBd-WzfJLNo6dZcJPVpG1iOQIwLJ1SOU7jzIX5RPCeucX_Uzy-tf8WeRdx31btuDkc_h2GEd_hGLUZt9vC7jexB9kOwR4ZRZG-lFGeu9eZZN8FnM9unj7v-c71nLcAL8CSp0ulvGE58nXeommH2N0DhpJG5fi8P_wi1KQL14hJeEIgUZWLxXWdkcRgwBOLm7sEnD3caiR6vN_MKk8SvMp9Tk3BZckKF-ffWSW0pZrAwEm1G5JZ7_jqkXqel_4hpyWtHw-y07958NsxiLdRFHnZJWxZsOa95BphPzHx8cWu8SwB261rLXzJyym6jlpohEzeqkmc3efd4o6kLZzjJXkxylrtb6GTdGYIh3ygw5WXvbnkT3uTroxd-So0JaPVFzBtkpm6-GaTtQ3Z09rsnAP0RsBmTTCj8-5M7Yt9aa2NsPTyPKHpNRkkl-_o_iaWxHm8UCmsd0s_HDHp-To0oIL8rBMvTCUvl8toaQ5H4eOzhk5jRHHVireWOQynlxsgj7svwmO8jPt8RYz6Gm7J4ZaXIj0ZKbuml8I3DrmYGmariWIuzDu5raKOmxIid5ZJwcPmzMSAcgvBvPoCuE3qSu1kMhIoxhtDkyfJ6mAq1mSYmUgfoqJ-XAlmh8-Gtb-GMkO9Hl001eagJfJhcXoC3OXMJpIYBveht-55yvrLVOR8-L4c3zfeLVF_DlZ5ND1ts5QyPZs0Vw2Hkr-aHj-Z4vzMgnk0lHExJZ8y15CEEj_CtaBgrZGWxE8n978cEcxGzY9Jh8ZEnPCTvclvY_s5Ll9JudQqoYWvZM9hadVrSdBck7bpYtV2t_aUU7yhI7fXTc9_moswJC3s_w1-y3le"
+          },
+          {
+            "name": "24gb, 512GB",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fvpu7HicbVVJzuu4EQ6SE-QQb_XgBjVL2Wm0JEuUNVGWNoYma7AmW7Y1INfIBf7X3UD3ooF0B7nL60XOEvkluwRgkYX6Pn5VIFngv_7w54-8-mfBEWo8niuo7wlwlI-PzQ3tn4Z7nz3TR5X9AwMkDgiKJQFNUgQOKBaQP6XxI276osp-w2gC0BwNGIrmGIYDLAC_lnmcNVWXW5dLfpf69K1CsCwOWI6hKJZiAMliOPlz1cZF_g3_bdsNGIKjyY1IYSxHU-yXezZ-xY_imSJYgiQomsUxbDOSYbm_Hh1LOv9_7IfbM78vv7RxmvT99XNc3T-35A_F8C3N_9K_tFX2K8XQJI2zLEHg1AbjNPgyvB4fZfH989nkf58-i7xma6KmuAF1jQP5o2g-qu6jbD7y7sc-Hl6X9Pc_AvkmS-JTE21_GJDkAG8_GL7cXCLCUXxFmzwAvQR3XN_vV_Ok0PZVpuxGxzxC0ZLVnyDIHLtFc-A7q4Ous9vOFVT0ykLCap9QGwOnRf74SNsSOmCIYR0JXo0UeMWI4Opg7j4zbEyYHbzsE_9BxQ08ZnjWIwSPSeevfh0ZllQ65qqjuMu0DNcNJM-xEcxErma0F1BaWmF-FmSq2ZaD7elXWOue38DGPZWEX5dhuKIwUhDptJCyPWgh4D8SYAO7i_rE093kCo92B3uISsnEdRtKjm638y0iGjILlFvSKBNqBiK5Ur3tYnrWlmSulqTXyo8Y58ywQ7S_6lVS62t6Uu6Jj4WWGtWxj1yzK3t7FeiwRhRUIAiu2SNHSuTL2QEpwjPDYBC0WIDwZvbx0o68EPP2M0KYE8VbrUGgoxBwXtKUs4-0Jbg2pKkOl-TkGEYQjS4hCGZTLjEaYrODd7TaWKIWi98IR8fLOrmMOsuDWniCl9inDs5qTr6M7EzhBq9pnH2lC44KFyuIPF8R1CzgHh4RlV4AjdhTKvPa3OJauRnI0ZA8CN_P4_3yFfAK9XAtOluK0hOVV-ae4zq71a4zn_fu4UYWxV8whsNIlgAkwWHsj-n2rqv89z_9zbVE9xMhbY_zEyF8dmXeEdWzy5uyq3nyGyhs7XyThTfKy-IW4eOYk_UhcyZsR8wWWwaPISsWVeFPXNTdKbVK_RxQF0_F44xs-1RJb_1LIZTprbG3rL0hn3nBd-WzfJLNo6dZcJPVpG1iOQIwLJ1SOU7jzIX5RPCeucX_Uzy-tf8WeRdx31btuDkc_h2GEd_hGLUZt9vC7jexB9kOwR4ZRZG-lFGeu9eZZN8FnM9unj7v-c71nLcAL8CSp0ulvGE58nXeommH2N0DhpJG5fi8P_wi1KQL14hJeEIgUZWLxXWdkcRgwBOLm7sEnD3caiR6vN_MKk8SvMp9Tk3BZckKF-ffWSW0pZrAwEm1G5JZ7_jqkXqel_4hpyWtHw-y07958NsxiLdRFHnZJWxZsOa95BphPzHx8cWu8SwB261rLXzJyym6jlpohEzeqkmc3efd4o6kLZzjJXkxylrtb6GTdGYIh3ygw5WXvbnkT3uTroxd-So0JaPVFzBtkpm6-GaTtQ3Z09rsnAP0RsBmTTCj8-5M7Yt9aa2NsPTyPKHpNRkkl-_o_iaWxHm8UCmsd0s_HDHp-To0oIL8rBMvTCUvl8toaQ5H4eOzhk5jRHHVireWOQynlxsgj7svwmO8jPt8RYz6Gm7J4ZaXIj0ZKbuml8I3DrmYGmariWIuzDu5raKOmxIid5ZJwcPmzMSAcgvBvPoCuE3qSu1kMhIoxhtDkyfJ6mAq1mSYmUgfoqJ-XAlmh8-Gtb-GMkO9Hl001eagJfJhcXoC3OXMJpIYBveht-55yvrLVOR8-L4c3zfeLVF_DlZ5ND1ts5QyPZs0Vw2Hkr-aHj-Z4vzMgnk0lHExJZ8y15CEEj_CtaBgrZGWxE8n978cEcxGzY9Jh8ZEnPCTvclvY_s5Ll-RXGqV0MJXsuewtOq1JGiuSdt0sWq7W3vKKd7Qkdvrpuc_zUUYkhb2cplW4h6W6V6p45NDHYpxgfusMkQeMz29C4t_A3L_hO0"
+          }
+        ]
+      },
+      {
+        "title": "Colour",
+        "items": [
+          {
+            "name": "Any Colour",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=37jkvHicbVVJzuu4EQ6SE-QQb_XgBjVL2WkeLFHWbGljaLIGa7Rsa0CukQv8r7uB7kUD6Q5yl9eLnCXyS3YJwCIL9X38qkCywH_94c8fefXPgsGUeLpUUJMxcBJPj90NrZ-Ge58900eV_QMBOAowgsYBiRMYCgga4D-l8SNu-qLKfkNIDJAMCSiCZCiKATQAv5Z5nDVVl5vXa34X-vStgtE0CmiGIgiaoABOIyj-c9XGRf4N_23fDSiMIfGdSCA0QxL0l3s2fUVP_IXAaAzHCJJGEWQ3nKKZv55sU7j8f-yH8Znf11_aOE36_vY5ru6fW_yHYviW5n_pX9oq-5WgSJxEaRrDUGKHURJ8GV6Pj7L4_vls8r_Pn3lWtVRelZyAuMWB-FE0H1X3UTYfefdjHw-va_r7H4E4igL_VHnLGwZfsIErD7onNtcIsyVPUmcXQDdBbcfz-s04S6R1Ewmr0RAXk9Rk82YIMttq_SXw7M32b4vTLhWUtMr0uc06-20M7Nb3pkfaltAGQwzriHNrX4I3BAtuNuLImW4h3GKjZZ94DyJu4ClDs9734SnpvM2rI90UStvYND_uMjVDNd0Xl1gPFixXMtINCDWtEC8LMsVoy8FytRusNddrYOOcS8yryzDc_DCSfNxuIWG50PSB90iABawu6hNXc5IbPFkd7KFfCgaqWVCwNatdxghr8CyQxqSRZr8ZsORG9JaDaFlb4rlS4m4rPmKUMcLOJ71Nq5Ja29KzdE88JDSVqI493zG6src2jgxrn4ASBMEte-S-FHlidvQl7pkhMAhaJPDRZvHQ0orcEHHlxfcRO4r3WoNA80PAuElTLp6vrsGtwQ1luCZnW9eDaHIwjjOaco39ITY6ePc3C0mUYvUa7mS7WSeWUWe6UA3P8Bp7xNHejNkTfSuTmMFtGluuNM5W4GoGketJnJIFzMPFotINoB67UmXcmjGupVH3bdUXB-77ZbpfvwJWIh6OSWZrUbq89MqcS1xnY-3Yy0V2jiNeFH9BKAbBaQzgGIPQP6b7u67y3__0N8fknU-YsD_OTxj32RFZm1cuDmuIjuqKb6Cw1Msocm-UFfk9wsYxI2pDZs_IAVtMugweQ1asisSemai7E0qVejkgrq6Cxhne9qmUjv1LwqT5rSGbpqyLF5bzHPEinkXj5Kom3GVVYZ9oBgMUTaZEjpIodaU-Yaxr7PH_FI_u7b9H3kXc91U97Q6Dfocg2HcoQuzGHPaw803sgbdDIPt6UaQvaRKX7nXB6XcBl4uTp897fnBc-y3AcrBkyVIqRyT3PY01SdLGDveAIoRJOj3vD68IVeHKNHwSnn2QKNLVZLpOT2IwoInJLF0CLi5qNgI53UejypMErXKPUVJwXbPCQdl3VsHfU81gYITaCfGstz3lRDwva_8Q05LUTkfR7t88-O0Y-HHieVZ0MEvkzEUWHD3sZyo-vegtXgRgOXWthi9xPUe3SQ31kMpbJYmz-3JYnQm3uEu8Ji9K2ip5DO2kM0I45AMZbqzoLiV7lg2y0g_lq1CljFRewLBwau7i0cJrC9LnrTnYR-hOgM6aYPEvhwshF3Jpbg239uIy-_Nr1nEmP5D9yJfYZboSKawPaz-cEOH5OjagguyiYS9Ewa_X62SqNkOg07OGdqNHcdXyY0sdh_PLCXyXua_cY7pOcr75lPIaxuQ45iVPznpKb-m18PRjzqe60ao8n3PLQWyrqGPmBMvtdZbQsLlQMSCcgjNuHgfGWdmIg4hHHEG5U2iwOF4dDcmcdSPjyWNU1I8bRh3QRTflWyhSxOvRRXNtDGoiHle7x8BdzCwsiWFwH3rznqe0t85Fzobvy_E8_d0S9edgEyfDVXdLCcO1cGNTUSh4m-Gys8EvzyxYJl2aVkPwCGMLcSiwE9wKAtYqbgrsfHb-y-HBotfslHT-lPAzerZ2-X3sP8f1Ky2WXsXLsExlqY7PNnEsbiuUs0rn2SWTVWdvUTFFGzJyes1wvaexckPSwv7fVmR6Pw"
+          },
+          {
+            "name": "Midnight",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=37jkvHicbVVJzuu4EQ6SE-QQb_XgBjVL2WkeLFHWbGljaLIGa7Rsa0CukQv8r7uB7kUD6Q5yl9eLnCXyS3YJwCIL9X38qkCywH_94c8fefXPgsGUeLpUUJMxcBJPj90NrZ-Ge58900eV_QMBOAowgsYBiRMYCgga4D-l8SNu-qLKfkNIDJAMCSiCZCiKATQAv5Z5nDVVl5vXa34X-vStgtE0CmiGIgiaoABOIyj-c9XGRf4N_23fDSiMIfGdSCA0QxL0l3s2fUVP_IXAaAzHCJJGEWQ3nKKZv55sU7j8f-yH8Znf11_aOE36_vY5ru6fW_yHYviW5n_pX9oq-5WgSJxEaRrDUGKHURJ8GV6Pj7L4_vls8r_Pn3lWtVRelZyAuMWB-FE0H1X3UTYfefdjHw-va_r7H4E4igL_VHnLGwZfsIErD7onNtcIsyVPUmcXQDdBbcfz-s04S6R1Ewmr0RAXk9Rk82YIMttq_SXw7M32b4vTLhWUtMr0uc06-20M7Nb3pkfaltAGQwzriHNrX4I3BAtuNuLImW4h3GKjZZ94DyJu4ClDs9734SnpvM2rI90UStvYND_uMjVDNd0Xl1gPFixXMtINCDWtEC8LMsVoy8FytRusNddrYOOcS8yryzDc_DCSfNxuIWG50PSB90iABawu6hNXc5IbPFkd7KFfCgaqWVCwNatdxghr8CyQxqSRZr8ZsORG9JaDaFlb4rlS4m4rPmKUMcLOJ71Nq5Ja29KzdE88JDSVqI493zG6src2jgxrn4ASBMEte-S-FHlidvQl7pkhMAhaJPDRZvHQ0orcEHHlxfcRO4r3WoNA80PAuElTLp6vrsGtwQ1luCZnW9eDaHIwjjOaco39ITY6ePc3C0mUYvUa7mS7WSeWUWe6UA3P8Bp7xNHejNkTfSuTmMFtGluuNM5W4GoGketJnJIFzMPFotINoB67UmXcmjGupVH3bdUXB-77ZbpfvwJWIh6OSWZrUbq89MqcS1xnY-3Yy0V2jiNeFH9BKAbBaQzgGIPQP6b7u67y3__0N8fknU-YsD_OTxj32RFZm1cuDmuIjuqKb6Cw1Msocm-UFfk9wsYxI2pDZs_IAVtMugweQ1asisSemai7E0qVejkgrq6Cxhne9qmUjv1LwqT5rSGbpqyLF5bzHPEinkXj5Kom3GVVYZ9oBgMUTaZEjpIodaU-Yaxr7PH_FI_u7b9H3kXc91U97Q6Dfocg2HcoQuzGHPaw803sgbdDIPt6UaQvaRKX7nXB6XcBl4uTp897fnBc-y3AcrBkyVIqRyT3PY01SdLGDveAIoRJOj3vD68IVeHKNHwSnn2QKNLVZLpOT2IwoInJLF0CLi5qNgI53UejypMErXKPUVJwXbPCQdl3VsHfU81gYITaCfGstz3lRDwva_8Q05LUTkfR7t88-O0Y-HHieVZ0MEvkzEUWHD3sZyo-vegtXgRgOXWthi9xPUe3SQ31kMpbJYmz-3JYnQm3uEu8Ji9K2ip5DO2kM0I45AMZbqzoLiV7lg2y0g_lq1CljFRewLBwau7i0cJrC9LnrTnYR-hOgM6aYPEvhwshF3Jpbg239uIy-_Nr1nEmP5D9yJfYZboSKawPaz-cEOH5OjagguyiYS9Ewa_X62SqNkOg07OGdqNHcdXyY0sdh_PLCXyXua_cY7pOcr75lPIaxuQ45iVPznpKb-m18PRjzqe60ao8n3PLQWyrqGPmBMvtdZbQsLlQMSCcgjNuHgfGWdmIg4hHHEG5U2iwOF4dDcmcdSPjyWNU1I8bRh3QRTflWyhSxOvRRXNtDGoiHle7x8BdzCwsiWFwH3rznqe0t85Fzobvy_E8_d0S9edgEyfDVXdLCcO1cGNTUSh4m-Gys8EvzyxYJl2aVkPwCGMLcSiwE9wKAtYqbgrsfHb-y-HBotfslHT-lPAzerZ2-X3sP8f1Ky2WXsXLsExlqY7PNnEsbiuUs0rn2SWTVWdvUTFFGzJyes1wvaexckPSwv7fVmR6Pw"
+          },
+          {
+            "name": "Silver",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LLdI0XicbVVJzuu4EQ6SE-QQb_XgBjVL2WmWbImyJsrSxtBkDdZky7YG5Bq5wP-6G-heNJDuIHd5vchZIr9klwAsslDfx68KJAv81x_-_JFX_yw4QovHcwX3KgGO8vGxuaH903Dvs2f6qLJ_YIDEAUGxJKBJisABxQLypzR-xE1fVNlvGE0AmqMBQ9Ecw3CABeDXMo-zpupy63LJ71KfvlUIlsUByzEUxVIMIFkMJ3-u2rjIv-G_bbsBQ3A0uREpjOVoiv1yz8av-FE8UwRLkARFsziGbUYyLPfXo2NJ5_-P_XB75vfllzZOk76_fo6r--eW_KEYvqX5X_qXtsp-pRiapHGWJQic2mCcBl-G1-OjLL5_Ppv879NnkddtXdQVN6CucSB_FM1H1X2UzUfe_djHw-uS_v5HIN9kSXzqou0PA5Ic4KmD4cvNJSIcxVf0yQPQS3DH9f1-NU8KbV9lym72mEcoerL6EwSZY7doDnxnddB1dtu5gsq-spCw2ifUxsBpkT8-0raEDhhiWEeCVyMFXjEiuDqYq2aGjQmzg5d94j-ouIHHDM96hOAx6fzVryPDkkrHXPco7jI9w_cGkufYCGYi1zLaCyg9rTA_CzLNbMvB9vZXWO89v4GNeyoJvy7DcEVhpCDSaSFle9BCwH8kwAZ2F_WJt3eTKzzaHewhKiUT39tQcvZ2O98ioiGzQLkljTKhZiCSK9XbLrbP2pLMtZL0WvkR45wZdoj2132V1Ps1PSn3xMdCS4vq2Eeu2ZW9vQp0WCMKKhAE1-yRIyXy5eyAFOGZYTAIWixAeDP7eGlHXoh56owQ5kTxVmsQ7FEIOC9pytlH-hJcG9LUhktycgwjiEaXEASzKZcYDbHZwTtabSzRisVvhKPjZZ1cRp3lQT08wUvsUwdnNSdfRnamcIPXNI5a7QVHg4sVRJ6vCFoWcA-PiEovgEbsKZV5bW5xrdwM5OhIHoTv5_F--Qp4hXq4Fp0tRemJyitzz3Gd3WrXmc-qe7iRRfEXjOEwkiUASXAY-2O6vesq__1Pf3Mt0f1ESNvj_EQIn12Zd0Tt7PKm7Oqe_AYKWz_fZOGN8rK4Rfg45uT9kDkTtiNmiy2Dx5AVi6bwJy7q7pRWpX4OqIun4XFGtn2qpLf-pRDK9NZQLUs15DMv-K58lk-yefR0C26yurRNLEcAhqVTKsdpnLkwnwjeM7f4f4rHt_bfIu8i7tuqHzeHw7_DMOI7HKM243Zb2P0m9iDbIVCRURTpSxnluXudSfZdwPns5unznu9cz3kL8AIsebpUyhuWI3_PWzTtELt7wFDSqByf94dfhLp04RoxCU8IJJpysbiuM5IYDHhicXOXgLOHW41Ej_ebWeVJgle5z2kpuCxZ4eL8O6uEtlQTGDipdkMy6x1fO1LP89I_5LSk98eD7PRvHvx2DOJtFEVedglbFqxZlVwj7CcmPr7YNZ4lYLt1rYcveTlF11EPjZDJWy2Js_u8W9yRtIVzvCQvRlkr9RY6SWeGcMgHOlx52ZtL_qSadGXsylehKxmtvYBpk8zUxTebrG3IntZm5xygNwI2a4IZnXdnSi3U0lobYenleULTazJILt_R_U0sifN4oVJY75Z-OGLS83VoQAX5eU-8MI28XC6jpTschY_PGjqNEcVVK95a5jCcXm6APO6-CI_xMqr5ihjtNdySwy0vRXoyUnZNL4VvHHIxNcxWF8VcmHdyW0UdNyVE7iyTgofNmYkB5RaCefUFcJu0ldrJZCRQjDeGJk-S1cFUrMkwM5E-REX9uBLMDp8NS72GMkO9Hl001eagJ_JhcXoC3OXMJpIYBveht-55yvrLVOR8-L4c3zfeLVF_DlZ5ND19s5QyPZs0Vx2Hkr-aHj-Z4vzMgnk0lHExJZ8y15CEEj_CtaBgrZOWxE8n978cEcxGzY9Jh8ZEnPCTvclvY_s5Ll-PculXogrLVFXq-ORQh-K6QDWrDJGfM1V3txaVU7yhI7ffm57_NBdhSFrYyyVfCS18JSqHpVWvbpwxa9HybzpFgso"
+          },
+          {
+            "name": "Sky Blue",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iXvaNHicbVVJzuu4EQ6SE-QQb_XgBjVL2WkeLFHWbGljaLIGa7Rsa0CukQv8r7uB7kUD6Q5yl9eLnCXyS3YJwCIL9X38qkCywH_94c8fefXPgsGUeLpUUJMxcBJPj90NrZ-Ge58900eV_QMBOAowgsYBiRMYCgga4D-l8SNu-qLKfkNIDJAMCSiCZCiKATQAv5Z5nDVVl5vXa34X-vStgtE0CmiGIgiaoABOIyj-c9XGRf4N_23fDSiMIfGdSCA0QxL0l3s2fUVP_IXAaAzHCJJGEWQ3nKKZv55sU7j8f-yH8Znf11_aOE36_vY5ru6fW_yHYviW5n_pX9oq-5WgSJxEaRrDUGKHURJ8GV6Pj7L4_vls8r_Pn3lWtVRelZyAuMWB-FE0H1X3UTYfefdjHw-va_r7H4E4igL_VHnLGwZfsIErD7onNtcIsyVPUmcXQDdBbcfz-s04S6R1Ewmr0RAXk9Rk82YIMttq_SXw7M32b4vTLhWUtMr0uc06-20M7Nb3pkfaltAGQwzriHNrX4I3BAtuNuLImW4h3GKjZZ94DyJu4ClDs9734SnpvM2rI90UStvYND_uMjVDNd0Xl1gPFixXMtINCDWtEC8LMsVoy8FytRusNddrYOOcS8yryzDc_DCSfNxuIWG50PSB90iABawu6hNXc5IbPFkd7KFfCgaqWVCwNatdxghr8CyQxqSRZr8ZsORG9JaDaFlb4rlS4m4rPmKUMcLOJ71Nq5Ja29KzdE88JDSVqI493zG6src2jgxrn4ASBMEte-S-FHlidvQl7pkhMAhaJPDRZvHQ0orcEHHlxfcRO4r3WoNA80PAuElTLp6vrsGtwQ1luCZnW9eDaHIwjjOaco39ITY6ePc3C0mUYvUa7mS7WSeWUWe6UA3P8Bp7xNHejNkTfSuTmMFtGluuNM5W4GoGketJnJIFzMPFotINoB67UmXcmjGupVH3bdUXB-77ZbpfvwJWIh6OSWZrUbq89MqcS1xnY-3Yy0V2jiNeFH9BKAbBaQzgGIPQP6b7u67y3__0N8fknU-YsD_OTxj32RFZm1cuDmuIjuqKb6Cw1Msocm-UFfk9wsYxI2pDZs_IAVtMugweQ1asisSemai7E0qVejkgrq6Cxhne9qmUjv1LwqT5rSGbpqyLF5bzHPEinkXj5Kom3GVVYZ9oBgMUTaZEjpIodaU-Yaxr7PH_FI_u7b9H3kXc91U97Q6Dfocg2HcoQuzGHPaw803sgbdDIPt6UaQvaRKX7nXB6XcBl4uTp897fnBc-y3AcrBkyVIqRyT3PY01SdLGDveAIoRJOj3vD68IVeHKNHwSnn2QKNLVZLpOT2IwoInJLF0CLi5qNgI53UejypMErXKPUVJwXbPCQdl3VsHfU81gYITaCfGstz3lRDwva_8Q05LUTkfR7t88-O0Y-HHieVZ0MEvkzEUWHD3sZyo-vegtXgRgOXWthi9xPUe3SQ31kMpbJYmz-3JYnQm3uEu8Ji9K2ip5DO2kM0I45AMZbqzoLiV7lg2y0g_lq1CljFRewLBwau7i0cJrC9LnrTnYR-hOgM6aYPEvhwshF3Jpbg239uIy-_Nr1nEmP5D9yJfYZboSKawPaz-cEOH5OjagguyiYS9Ewa_X62SqNkOg07OGdqNHcdXyY0sdh_PLCXyXua_cY7pOcr75lPIaxuQ45iVPznpKb-m18PRjzqe60ao8n3PLQWyrqGPmBMvtdZbQsLlQMSCcgjNuHgfGWdmIg4hHHEG5U2iwOF4dDcmcdSPjyWNU1I8bRh3QRTflWyhSxOvRRXNtDGoiHle7x8BdzCwsiWFwH3rznqe0t85Fzobvy_E8_d0S9edgEyfDVXdLCcO1cGNTUSh4m-Gys8EvzyxYJl2aVkPwCGMLcSiwE9wKAtYqbgrsfHb-y-HBotfslHT-lPAzerZ2-X3sP8f1qyOWXsXLsExlqY7PNnEsbiuUs0rn2SWTVWdvUTFFGzJyes1wvaexckPSwl4s1Ypr4SuRGSStejVFH4Qqa1MWeP8GwyCDXg"
+          },
+          {
+            "name": "Starlight",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=86LdUXicbVVJzuu4EQ6SE-QQb_XgBjVL2WkeLFHWbGljaLIGa7Rsa0CukQv8r7uB7kUD6Q5yl9eLnCXyS3YJwCIL9X38qkCywH_94c8fefXPgsGUeLpUUJMxcBJPj90NrZ-Ge58900eV_QMBOAowgsYBiRMYCgga4D-l8SNu-qLKfkNIDJAMCSiCZCiKATQAv5Z5nDVVl5vXa34X-vStgtE0CmiGIgiaoABOIyj-c9XGRf4N_23fDSiMIfGdSCA0QxL0l3s2fUVP_IXAaAzHCJJGEWQ3nKKZv55sU7j8f-yH8Znf11_aOE36_vY5ru6fW_yHYviW5n_pX9oq-5WgSJxEaRrDUGKHURJ8GV6Pj7L4_vls8r_Pn3lWtVRelZyAuMWB-FE0H1X3UTYfefdjHw-va_r7H4E4igL_VHnLGwZfsIErD7onNtcIsyVPUmcXQDdBbcfz-s04S6R1Ewmr0RAXk9Rk82YIMttq_SXw7M32b4vTLhWUtMr0uc06-20M7Nb3pkfaltAGQwzriHNrX4I3BAtuNuLImW4h3GKjZZ94DyJu4ClDs9734SnpvM2rI90UStvYND_uMjVDNd0Xl1gPFixXMtINCDWtEC8LMsVoy8FytRusNddrYOOcS8yryzDc_DCSfNxuIWG50PSB90iABawu6hNXc5IbPFkd7KFfCgaqWVCwNatdxghr8CyQxqSRZr8ZsORG9JaDaFlb4rlS4m4rPmKUMcLOJ71Nq5Ja29KzdE88JDSVqI493zG6src2jgxrn4ASBMEte-S-FHlidvQl7pkhMAhaJPDRZvHQ0orcEHHlxfcRO4r3WoNA80PAuElTLp6vrsGtwQ1luCZnW9eDaHIwjjOaco39ITY6ePc3C0mUYvUa7mS7WSeWUWe6UA3P8Bp7xNHejNkTfSuTmMFtGluuNM5W4GoGketJnJIFzMPFotINoB67UmXcmjGupVH3bdUXB-77ZbpfvwJWIh6OSWZrUbq89MqcS1xnY-3Yy0V2jiNeFH9BKAbBaQzgGIPQP6b7u67y3__0N8fknU-YsD_OTxj32RFZm1cuDmuIjuqKb6Cw1Msocm-UFfk9wsYxI2pDZs_IAVtMugweQ1asisSemai7E0qVejkgrq6Cxhne9qmUjv1LwqT5rSGbpqyLF5bzHPEinkXj5Kom3GVVYZ9oBgMUTaZEjpIodaU-Yaxr7PH_FI_u7b9H3kXc91U97Q6Dfocg2HcoQuzGHPaw803sgbdDIPt6UaQvaRKX7nXB6XcBl4uTp897fnBc-y3AcrBkyVIqRyT3PY01SdLGDveAIoRJOj3vD68IVeHKNHwSnn2QKNLVZLpOT2IwoInJLF0CLi5qNgI53UejypMErXKPUVJwXbPCQdl3VsHfU81gYITaCfGstz3lRDwva_8Q05LUTkfR7t88-O0Y-HHieVZ0MEvkzEUWHD3sZyo-vegtXgRgOXWthi9xPUe3SQ31kMpbJYmz-3JYnQm3uEu8Ji9K2ip5DO2kM0I45AMZbqzoLiV7lg2y0g_lq1CljFRewLBwau7i0cJrC9LnrTnYR-hOgM6aYPEvhwshF3Jpbg239uIy-_Nr1nEmP5D9yJfYZboSKawPaz-cEOH5OjagguyiYS9Ewa_X62SqNkOg07OGdqNHcdXyY0sdh_PLCXyXua_cY7pOcr75lPIaxuQ45iVPznpKb-m18PRjzqe60ao8n3PLQWyrqGPmBMvtdZbQsLlQMSCcgjNuHgfGWdmIg4hHHEG5U2iwOF4dDcmcdSPjyWNU1I8bRh3QRTflWyhSxOvRRXNtDGoiHle7x8BdzCwsiWFwH3rznqe0t85Fzobvy_E8_d0S9edgEyfDVXdLCcO1cGNTUSh4m-Gys8EvzyxYJl2aVkPwCGMLcSiwE9wKAtYqbgrsfHb-y-HBotfslHT-lPAzerZ2-X3sP8f1qyuWXsXLsExlqY7PNnEsbiuUs0rn2SWTVWdvUTFFGzJyes1wvaexckPSwl4sjYpr4SuRGSStei3F7DJtlyFCS_BvSneD9Q"
+          }
+        ]
+      },
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8Y9hrXicbVVJzuu4EQ6SE-QQb_XgBjVLvdMs2RJlzZY2hiTKGqzJlm0N6GvkAv_rbqCzCJDuIHd5vchZIr9klwAsslDfx68KZBH81x_-_JFX_yw4QkvGcwX3KgGO8vGxuZH9y3Dv0TN7VOgfGCBxQFAsCWiSInBAsYD8JUseSdMXFfoNowlAczRgKJpjGA6wAPxa5glqqi63Lpf8LvXZW4VgWRywHENRLMUAksVw8q9VmxT5N_y3bTdgCI4mNyKFsRxNsV_uaPyKH8UzRbAESVA0i2PYZiTDcj8cHUs6_3_sp9szvy9_a5Ms7fvr56S6f27Jn4rhW5r_pX9pK_QrxdAkjbMsQeDUBuM0-DK8Hh9l8ePz2eR_nz6LvG7roq64IXVNQvmjaD6q7qNsPvLu5z4ZXpfs9z8C-SZL4lMXbX8YAskBnjoYvtxcYsJRfEWfPAC9FHdc3-9X86TQ9lWm7GaPeYSip6s_QYAcuw3m0HdWJ7jObjtXUNlXViCs9iloE-C0gT8-sraEDhgSWMeCVwcKvGJEeHUwV0WGjQmzg5d96j-opIFHhKM-COAx7fzVr2PDkkrHXPdB0iEd4XsjkOfECGci1xDthZSeVZiPQqSZbTnY3v4K673nN7BxTyXh12UUrUEUKwHptJCyPWgFwH-kwAZ2F_ept3fTKzzaHexhUEomvreh5Oztdr7FREOiULmljTIFzUCkV6q3XWyP2pLMtZL0WvmR4JwZdQHtr_sqrfdrdlLuqY9FlhbXiR-4Zlf29irQUR1QUIEgvKJHHiixL6NDoAhPhMEwbLEwwJvZx0s79iLMU-cgwJw42WoNw30QAc5Lm3L2A30Jrw1pasMlPTmGEcajSwiC2ZRLEgyJ2cF7sNpYqhWL3whHx0OdXMad5UE9OsFL4lMHZzUnXw5spHCD1zSOWu0FR4OLFcaerwgaCrmHR8SlF0Ij8ZTKvDa3pFZuRuDogTwIP87j_fIV8Ar1cC0aLUXpicoLueekRrfadeaz6h5uZFF8jzEcRrIEIAkOY3_Otr6u8t__9BfXEt1PhLQ15ydC-OzKvCNqZ5c3ZVf35DdQ2Pr5JgtvlJfFLcInCSfvB-RM2I6YLbYMHwMqFk3hT1zc3SmtyvwcUBdPwxNEtn2mZLf-pRDK9NZQLUs15DMv-K58lk-yefR0C26yurRNLEcAhqUzKsdpnLkwnwjeM7f4f4rHt-e_Rd5F3LdVP24Oh3-HYcR3OEZtxu22sPtN7EG2Q6gGRlFkL2WU5-51Jtl3Aeezm2fPe75zPectwAuw5OlSKW9YHvh73qJph9jdQ4aSRuX4vD_8ItKlC9eIaXQKQKopF4vrOiNNwICnFjd3KTh7uNVI9Hi_mVWepniV-5yWgcuCChfn31mlYEs1gYGTajciUe_42pF6npf-IWclvT8eZKd_8-C3YxBvoyjyskvYsmDNquQaUT8xyfHFrsksAdutaz16ycspvo56ZERM3mppgu7zbnFH0hbOyZK-GGWt1FvkpJ0ZwSEf6GjlZW8u-ZNq0pWxK1-FriBaewHTJpmpS242WduQPa3NzjlAbwQsasI5OO_OlFqopbU2wtLL8xRMr8kguXxH9zexJM7jhcpgvVv64YhJz9ehARXk5z3xwjTycrmMlu5wFD4-a-g0RpxUrXhrmcNwerlh4HH3RXiMl1HN14DRXsMtPdzyUqQnI2PX7FL4xiEXM8NsdVHMhXknt1XccVNK5M4yKXjUnJkEUG4hmFdfALdJW6mdTMYCxXhjZPIkWR1MxZoME4n0IS7qx5VgdvhsWOo1khnq9ejiqTYHPZUPi9MT4C4jm0gTGN6H3rrnGesvU5Hz0ftyfN94P4n6c7jKo-npm2WU6dmkueo4lPzV9PjJFOcnCufRUMbFlHzKXCMSSvwI14KCtU5aEj-d3P9yRDAbNT-mXTCm4oSf7E1-G9vPcfn6vVz6lajCMlOVOjk51KG4LlBFlSHyM1J1V650NcK5MSWC5VCUjyR0nkmIesT_G0_leyU"
+          },
+          {
+            "name": "15\" / 15.3\"",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xNpeH3icbVVJzuvGEQ6SE-QQb_UgozmT2XEmJbIpTk2RG4GTOIiTREkckGvkAv-zDdgLA7GD3OV5kbOEeskuAbq6CvVVf1XorkL_6w9__sirfxYcocXjuYJ7lQBH-fjYzND-abj32TN9VNk_MEDigKBYEtAkReCAYgH5Uxo_4qYvquw3jCYAzdGAoWiOYTjAAvBrmcdZU3W5dbnkd6lP3ywEy-KA5RiKYikGkCyGkz9XbVzk3_DfttOAITia3AIpjOVoiv1yz8av-FE8UwRLkARFsziGbUIyLPfXo2NJ5_-P_XB75vfllzZOk76_fo6r--eW_KEYvqX53_AvbZX9SjE0SeMsSxA4tcE4Db4Mr8dHWXz_fDb536fPIq_buqgrbkBd40D-KJqPqvsom4-8-7GPh9cl_f2PQL7JkvjURdsfBiQ5wFMHw5ebS0Q4iq_okwegl-CO6_v9ap4U2r7KlN3sMY9Q9GT1Jwgyx27RHPjO6qDr7LZzBZV9ZSFhtU-ojYHTIn98pG0JHTDEsI4Er0YKvGJEcHUwV80MGxNmBy_7xH9QcQOPGZ71CMFj0vmrX0eGJZWOue5R3GV6hu8NJM-xEcxErmW0F1B6WmF-FmSa2ZaD7e2vsN57fgMb91QSfl2G4YrCSEGk00LK9qCFgP9IgA3sLuoTb-8mV3i0O9hDVEomvreh5Oztdr5FRENmgXJLGmVCzUAkV6q3XWyftSWZayXptfIjxjkz7BDtr_sqqfdrelLuiY-FlhbVsY9csyt7exXosEYUVCAIrtkjR0rky9kBKcIzw2AQtFiA8Gb28dKOvBDz1BkhzInirdYg2KMQcF7SlLOP9CW4NqSpDZfk5BhGEI0uIQhmUy4xGmKzg3e02liiFYvfCEfHyzq5jDrLg3p4gpfYpw7Oak6-jOxM4QavaRy12guOBhcriDxfEbQs4B4eEZVeAI3YUyrz2tziWrkZyNGRPAjfz-P98hXwCvVwLTpbitITlVfmnuM6u9WuM59V93Aji-IvGMNhJEsAkuAw9sd06-sq__1Pf3Mt0f1ESFtzfiKEz67MO6J2dnlTdnVPfgOFrZ9vsvBGeVncPHwcc_J-yJwJ2xGzxZbBY8iKRVP4Exd1d0qrUj8H1MXT8Dgj2z5V0lv_UghlenOolqUa8pkXfFc-yyfZPHq6BTdaXdo2liMAw9IpleM0zlyYTwTvmZv_P8Xj2_hvnncR903rx83g8O8wjPgOx6hNuN3mdr-RPch2CFRkFEX6UkZ57l5nkn0XcD67efq85zvXc94EvABLni6V8oblyN_zFk07xO4eMJQ0Ksfn_eEXoS5duEZMwhMCiaZcLK7rjCQGA55Y3Nwl4OzhViPR4_1mVnmS4FXuc1oKLktWuDj_ziqhLdUEBk6q3ZDMesfXjtTzvPQPOS3p_fEgO_07Dn67BvE2iiIvu4QtC9asSq4R9hMTH1_sGs8SsN261sOXvJyi66iHRsjkrZbE2X3eLe5I2sI5XpIXo6yVegudpDNDOOQDHa687M0lf1JNujJ25avQlYzWXsC0SWbq4ptN1jZkT2uzcw7QGwGbNcGMzrszpRZqaa2NsPTyPKHpNRkkl-_o_iaWxHm8UCmsd0s_HDHp-To0oIL8vCdemEZeLpfR0h2OwsdnDZ3GiOKqFW8tcxhOLzdAHndfhMd4GdV8RYz2Gm7J4ZaXIj0ZKbuml8I3DrmYGmari2IuzDu5raKOmxIid5ZJwcPmzMSAcgvBvPoCuE3aSu1kMhIoxhtDkyfJ6mAq1mSYmUgfoqJ-XAlmh8-GpV5DmaFejy6aanPQE_mwOD0B7nJmE0kMg_vQW_c8Zf1lKnI-fD-O7xvvkag_B6s8mp6-SUqZnk2aq45DyV9Nj59McX5mwTwayriYkk-Za0hCiR_hWlCw1klL4qeT-98YEcxGzY9Jh8ZEnPCTvdFva_s5Ll-RXPqVqMIyVZU6PjnUobguUM0qQ-TnTNVdudLVEOfGhEDLoSgfceA84yDrM0H39MJZ49PQHIpxhq5eGAu_aXLVi38DZYmFWw"
+          },
+          {
+            "name": "15.3 inch",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8Y9hrXicbVVJzuu4EQ6SE-QQb_XgBjVLvdMs2RJlzZY2hiTKGqzJlm0N6GvkAv_rbqCzCJDuIHd5vchZIr9klwAsslDfx68KZBH81x_-_JFX_yw4QkvGcwX3KgGO8vGxuZH9y3Dv0TN7VOgfGCBxQFAsCWiSInBAsYD8JUseSdMXFfoNowlAczRgKJpjGA6wAPxa5glqqi63Lpf8LvXZW4VgWRywHENRLMUAksVw8q9VmxT5N_y3bTdgCI4mNyKFsRxNsV_uaPyKH8UzRbAESVA0i2PYZiTDcj8cHUs6_3_sp9szvy9_a5Ms7fvr56S6f27Jn4rhW5r_pX9pK_QrxdAkjbMsQeDUBuM0-DK8Hh9l8ePz2eR_nz6LvG7roq64IXVNQvmjaD6q7qNsPvLu5z4ZXpfs9z8C-SZL4lMXbX8YAskBnjoYvtxcYsJRfEWfPAC9FHdc3-9X86TQ9lWm7GaPeYSip6s_QYAcuw3m0HdWJ7jObjtXUNlXViCs9iloE-C0gT8-sraEDhgSWMeCVwcKvGJEeHUwV0WGjQmzg5d96j-opIFHhKM-COAx7fzVr2PDkkrHXPdB0iEd4XsjkOfECGci1xDthZSeVZiPQqSZbTnY3v4K673nN7BxTyXh12UUrUEUKwHptJCyPWgFwH-kwAZ2F_ept3fTKzzaHexhUEomvreh5Oztdr7FREOiULmljTIFzUCkV6q3XWyP2pLMtZL0WvmR4JwZdQHtr_sqrfdrdlLuqY9FlhbXiR-4Zlf29irQUR1QUIEgvKJHHiixL6NDoAhPhMEwbLEwwJvZx0s79iLMU-cgwJw42WoNw30QAc5Lm3L2A30Jrw1pasMlPTmGEcajSwiC2ZRLEgyJ2cF7sNpYqhWL3whHx0OdXMad5UE9OsFL4lMHZzUnXw5spHCD1zSOWu0FR4OLFcaerwgaCrmHR8SlF0Ij8ZTKvDa3pFZuRuDogTwIP87j_fIV8Ar1cC0aLUXpicoLueekRrfadeaz6h5uZFF8jzEcRrIEIAkOY3_Otr6u8t__9BfXEt1PhLQ15ydC-OzKvCNqZ5c3ZVf35DdQ2Pr5JgtvlJfFLcInCSfvB-RM2I6YLbYMHwMqFk3hT1zc3SmtyvwcUBdPwxNEtn2mZLf-pRDK9NZQLUs15DMv-K58lk-yefR0C26yurRNLEcAhqUzKsdpnLkwnwjeM7f4f4rHt-e_Rd5F3LdVP24Oh3-HYcR3OEZtxu22sPtN7EG2Q6gGRlFkL2WU5-51Jtl3Aeezm2fPe75zPectwAuw5OlSKW9YHvh73qJph9jdQ4aSRuX4vD_8ItKlC9eIaXQKQKopF4vrOiNNwICnFjd3KTh7uNVI9Hi_mVWepniV-5yWgcuCChfn31mlYEs1gYGTajciUe_42pF6npf-IWclvT8eZKd_8-C3YxBvoyjyskvYsmDNquQaUT8xyfHFrsksAdutaz16ycspvo56ZERM3mppgu7zbnFH0hbOyZK-GGWt1FvkpJ0ZwSEf6GjlZW8u-ZNq0pWxK1-FriBaewHTJpmpS242WduQPa3NzjlAbwQsasI5OO_OlFqopbU2wtLL8xRMr8kguXxH9zexJM7jhcpgvVv64YhJz9ehARXk5z3xwjTycrmMlu5wFD4-a-g0RpxUrXhrmcNwerlh4HH3RXiMl1HN14DRXsMtPdzyUqQnI2PX7FL4xiEXM8NsdVHMhXknt1XccVNK5M4yKXjUnJkEUG4hmFdfALdJW6mdTMYCxXhjZPIkWR1MxZoME4n0IS7qx5VgdvhsWOo1khnq9ejiqTYHPZUPi9MT4C4jm0gTGN6H3rrnGesvU5Hz0ftyfN94P4n6c7jKo-npm2WU6dmkueo4lPzV9PjJFOcnCufRUMbFlHzKXCMSSvwI14KCtU5aEj-d3P9yRDAbNT-mXTCm4oSf7E1-G9vPcfn6vVz6lajCMlOVOjk51KG4LlBFlSHyM1J1V650NcK5MSWC5VCUjyR0nkmIesT_G0_leyU"
+          }
+        ]
+      }
+    ]
+  }
+}

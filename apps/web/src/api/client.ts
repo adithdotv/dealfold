@@ -1,5 +1,8 @@
 import type { Comparison, SearchResult } from './types'
 
+// Empty in development: Vite proxies /api to the local backend.
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL ?? '').replace(/\/+$/, '')
+
 // Every API call costs a SerpAPI request, so identical requests are shared for the session.
 const responseCache = new Map<string, Promise<unknown>>()
 
@@ -32,7 +35,7 @@ function getCachedJson(path: string): Promise<unknown> {
 }
 
 async function fetchJson(path: string): Promise<unknown> {
-  const response = await fetch(path)
+  const response = await fetch(`${API_BASE_URL}${path}`)
   if (!response.ok) {
     throw new Error(`Request failed with status ${response.status}. Please try again.`)
   }

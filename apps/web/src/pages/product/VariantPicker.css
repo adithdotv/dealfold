@@ -1,0 +1,36 @@
+.variant-picker {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+}
+
+.variant-picker__group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+}
+
+.variant-picker__options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-2);
+}
+
+.variant-picker__option {
+  padding: 10px var(--spacing-4);
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+a.variant-picker__option:hover {
+  border-color: var(--color-primary);
+}
+
+.variant-picker__option--selected {
+  padding: 9px calc(var(--spacing-4) - 1px);
+  border: 2px solid var(--color-primary);
+}

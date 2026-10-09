@@ -1,0 +1,46 @@
+.best-offer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+  padding: var(--spacing-5);
+  background: var(--color-primary-soft);
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius-md);
+}
+
+.best-offer__header {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-4);
+}
+
+.best-offer__summary {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.best-offer__reasons {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.best-offer__reasons li {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-2);
+}
+
+.best-offer__reasons img {
+  flex-shrink: 0;
+  margin-top: 4px;
+}
+
+.best-offer__buy {
+  align-self: flex-start;
+}

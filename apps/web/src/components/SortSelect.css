@@ -1,0 +1,27 @@
+.sort-select {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  height: 40px;
+  padding: 0 var(--spacing-3);
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+}
+
+.sort-select select {
+  appearance: none;
+  padding-right: 24px;
+  border: none;
+  outline: none;
+  background: url('../assets/icons/chevron-down.svg') no-repeat right center / 16px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.sort-select:focus-within {
+  border-color: var(--color-primary);
+}

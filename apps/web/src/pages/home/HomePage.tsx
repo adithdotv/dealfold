@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
-import { SearchBar } from '../components/SearchBar'
+import { SearchBar } from '../../components/SearchBar'
+import { searchPath } from '../../utils/routes'
 import './HomePage.css'
 
 const EXAMPLE_QUERIES = ['Apple iPhone 17', 'Sony WH-1000XM5', 'MacBook Air', 'Samsung TV']
@@ -38,7 +39,7 @@ export function HomePage() {
           {EXAMPLE_QUERIES.map((example) => (
             <Link
               key={example}
-              to={`/search?q=${encodeURIComponent(example)}`}
+              to={searchPath(example)}
               className="home-hero__chip"
             >
               {example}

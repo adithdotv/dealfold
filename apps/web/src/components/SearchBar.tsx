@@ -2,6 +2,7 @@ import { useState, type FormEvent } from 'react'
 import { useNavigate } from 'react-router-dom'
 import searchIcon from '../assets/icons/search-20.svg'
 import searchIconSmall from '../assets/icons/search-16.svg'
+import { searchPath } from '../utils/routes'
 import { buttonClassName } from './buttonClassName'
 import './SearchBar.css'
 
@@ -20,7 +21,7 @@ export function SearchBar({ initialQuery = '', compact = false }: SearchBarProps
     event.preventDefault()
     const trimmedQuery = query.trim()
     if (!trimmedQuery) return
-    navigate(`/search?q=${encodeURIComponent(trimmedQuery)}`)
+    navigate(searchPath(trimmedQuery))
   }
 
   if (compact) {

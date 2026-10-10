@@ -2,6 +2,8 @@ import { useCallback, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { searchProducts } from '../../api/client'
 import type { SearchResult } from '../../api/types'
+import { LoadingState } from '../../components/LoadingState'
+import { Skeleton } from '../../components/Skeleton'
 import { SortSelect } from '../../components/SortSelect'
 import { StatusMessage } from '../../components/StatusMessage'
 import { useRequest } from '../../hooks/useRequest'
@@ -21,6 +23,16 @@ const SORT_OPTIONS: { value: SearchSortOrder; label: string }[] = [
   { value: 'lowest_price', label: 'Lowest price' },
   { value: 'highest_rating', label: 'Highest rating' },
 ]
+
+const LOADING_STEPS = [
+  'Searching online stores',
+  'Collecting matching products',
+  'Gathering prices and ratings',
+  'Preparing your results',
+]
+
+const SKELETON_CARD_COUNT = 6
+const SKELETON_FILTER_GROUP_COUNT = 3
 
 export function SearchResultsPage() {
   const [searchParams] = useSearchParams()
@@ -48,7 +60,10 @@ function SearchResults({ query }: { query: string }) {
   return (
     <div className="page search-page">
       {resultsRequest.status === 'loading' && (
-        <StatusMessage title={`Searching stores for "${query}"`} description="This can take a few seconds." />
+        <>
+          <LoadingState title={`Searching stores for "${query}"`} steps={LOADING_STEPS} />
+          <ResultsSkeleton />
+        </>
       )}
       {resultsRequest.status === 'error' && (
         <StatusMessage
@@ -112,5 +127,37 @@ function ResultsView({ query, results }: { query: string; results: SearchResult[
         )}
       </div>
     </>
+  )
+}
+
+// Mirrors the filter sidebar and product grid so the page doesn't jump when results arrive.
+function ResultsSkeleton() {
+  return (
+    <div className="search-page__body" aria-hidden="true">
+      <div className="filter-sidebar card">
+        <Skeleton width="40%" height={28} />
+        {Array.from({ length: SKELETON_FILTER_GROUP_COUNT }, (_, index) => (
+          <div key={index} className="search-page__skeleton-group">
+            <Skeleton width="30%" height={20} />
+            <Skeleton width="70%" height={20} />
+            <Skeleton width="55%" height={20} />
+          </div>
+        ))}
+      </div>
+      <div className="search-page__grid">
+        {Array.from({ length: SKELETON_CARD_COUNT }, (_, index) => (
+          <div key={index} className="product-card card">
+            <Skeleton height={200} className="search-page__skeleton-image" />
+            <div className="product-card__body">
+              <Skeleton width="40%" height={14} />
+              <Skeleton height={20} />
+              <Skeleton width="70%" height={20} />
+              <Skeleton width="45%" height={32} />
+              <Skeleton height={40} />
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
   )
 }

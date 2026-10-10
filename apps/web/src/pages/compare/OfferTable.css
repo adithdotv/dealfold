@@ -1,4 +1,6 @@
 .offer-table {
+  /* Contains the visually hidden header so it can't widen the page. */
+  position: relative;
   overflow-x: auto;
 }
 
@@ -43,4 +45,106 @@
 
 .offer-table__action {
   text-align: right;
+}
+
+/* Below the table's 960px minimum, each offer becomes a card: store and final price on top, the breakdown below. */
+@media (max-width: 1000px) {
+  .offer-table {
+    overflow: visible;
+    background: none;
+    border: none;
+  }
+
+  .offer-table table {
+    min-width: 0;
+  }
+
+  .offer-table thead {
+    display: none;
+  }
+
+  .offer-table tbody {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--spacing-3);
+  }
+
+  .offer-table tr {
+    display: grid;
+    grid-template-areas:
+      'store store final'
+      'listed delivery discount'
+      'action action action';
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--spacing-3);
+    padding: var(--spacing-4);
+    background: var(--color-background);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+  }
+
+  .offer-table tr.offer-table__row--best {
+    background: var(--color-primary-soft);
+    border-color: var(--color-primary);
+  }
+
+  .offer-table td,
+  .offer-table__row--best td {
+    display: block;
+    padding: 0;
+    background: none;
+    border: none;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .offer-table td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 2px;
+    color: var(--color-text-secondary);
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .offer-table__store {
+    grid-area: store;
+  }
+
+  .offer-table__final {
+    grid-area: final;
+  }
+
+  .offer-table__final .offer-table__cell {
+    align-items: flex-end;
+    text-align: right;
+  }
+
+  .offer-table__listed {
+    grid-area: listed;
+  }
+
+  .offer-table__delivery {
+    grid-area: delivery;
+  }
+
+  .offer-table__discount {
+    grid-area: discount;
+  }
+
+  .offer-table__no-offer-hint {
+    display: none;
+  }
+
+  .offer-table__action {
+    grid-area: action;
+  }
+
+  .offer-table__action:empty {
+    display: none;
+  }
+
+  .offer-table__action .button {
+    width: 100%;
+  }
 }

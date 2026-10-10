@@ -100,6 +100,7 @@
 @media (max-width: 900px) {
   .product-page__hero {
     grid-template-columns: 1fr;
+    gap: var(--spacing-6);
   }
 
   .product-page__image {
@@ -108,5 +109,29 @@
 
   .product-page__spec-row dt {
     width: 140px;
+  }
+}
+
+@media (max-width: 640px) {
+  .product-page {
+    gap: var(--spacing-12);
+    padding-bottom: var(--spacing-16);
+  }
+
+  .product-page__top {
+    gap: var(--spacing-5);
+  }
+
+  .product-page__image {
+    height: 260px;
+    padding: var(--spacing-5);
+  }
+
+  .product-page__spec-row {
+    padding: var(--spacing-3) var(--spacing-4);
+  }
+
+  .product-page__spec-row dt {
+    width: 112px;
   }
 }

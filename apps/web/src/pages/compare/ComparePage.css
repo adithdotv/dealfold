@@ -66,7 +66,26 @@
 }
 
 @media (max-width: 640px) {
+  .compare-page {
+    gap: var(--spacing-6);
+    padding-top: var(--spacing-6);
+  }
+
   .compare-page__product {
     flex-wrap: wrap;
+  }
+
+  .compare-page__thumbnail {
+    width: 64px;
+    height: 64px;
+  }
+
+  /* Full row beside the thumbnail, pushing the variant link onto its own line. */
+  .compare-page__product-info {
+    flex-basis: calc(100% - 64px - var(--spacing-4));
+  }
+
+  .compare-page__title-row {
+    gap: var(--spacing-4);
   }
 }

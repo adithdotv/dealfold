@@ -39,7 +39,7 @@ function OfferRow({ offer }: { offer: Offer }) {
 
   return (
     <tr className={offer.is_best ? 'offer-table__row--best' : undefined}>
-      <td>
+      <td className="offer-table__store">
         <div className="offer-table__cell">
           <span className="text-body-medium">{offer.store}</span>
           {offer.is_best && (
@@ -54,12 +54,17 @@ function OfferRow({ offer }: { offer: Offer }) {
           ))}
         </div>
       </td>
-      <td>{offer.listed_price !== null ? formatPrice(offer.listed_price) : '—'}</td>
-      <td>{offer.delivery_fee ? formatPrice(offer.delivery_fee) : 'Free'}</td>
-      <td>
+      {/* data-label names each value when rows stack as cards on small screens. */}
+      <td className="offer-table__listed" data-label="Product price">
+        {offer.listed_price !== null ? formatPrice(offer.listed_price) : '—'}
+      </td>
+      <td className="offer-table__delivery" data-label="Delivery">
+        {offer.delivery_fee ? formatPrice(offer.delivery_fee) : 'Free'}
+      </td>
+      <td className="offer-table__discount" data-label="Discount">
         <DiscountCell offer={offer} hasSavings={savings > 0} />
       </td>
-      <td>
+      <td className="offer-table__final">
         <div className="offer-table__cell">
           <span className="text-h3">{offer.final_price !== null ? formatPrice(offer.final_price) : '—'}</span>
           {savings > 0 ? (
@@ -93,7 +98,7 @@ function DiscountCell({ offer, hasSavings }: { offer: Offer; hasSavings: boolean
     return (
       <div className="offer-table__cell text-secondary">
         <span className="text-body-medium">No offer</span>
-        <span className="text-caption">No coupon or discount found</span>
+        <span className="text-caption offer-table__no-offer-hint">No coupon or discount found</span>
       </div>
     )
   }

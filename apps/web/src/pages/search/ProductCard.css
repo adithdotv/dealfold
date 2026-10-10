@@ -37,3 +37,28 @@
   gap: var(--spacing-2);
   margin-top: auto;
 }
+
+/* Image beside the details, so each result takes about half the height on phones. */
+@media (max-width: 640px) {
+  .product-card {
+    flex-direction: row;
+  }
+
+  .product-card__image {
+    flex-shrink: 0;
+    width: 116px;
+    height: auto;
+    padding: var(--spacing-3);
+  }
+
+  .product-card__body {
+    gap: var(--spacing-2);
+    min-width: 0;
+    padding: var(--spacing-4);
+  }
+
+  .product-card__title {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
